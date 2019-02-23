@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>{{title}}{% block subtitle %}{% endblock %}</title>
+    <link rel="canonical" href="{{site-url}}{{uri}}">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="{{rss-uri}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% style "css/style.css" %}
+</head>
+<body>
+
+<header>
+    <h1><a href="{{index-uri}}">{{title}}</a></h1>
+    <span class="tagline">{{tagline}}</span>
+    <nav>
+        <ul>
+            <li {% if archives %} class="active" {% endif %}><a href="{{archives-uri}}">Archives</a></li>
+            {% for nav-page in sidebar-pages %}
+            <li {%ifequal page.uri nav-page.uri %} class="active" {% endifequal %}>
+                <a href="{{nav-page.uri}}">{{nav-page.title}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
+
+<div class="container">
+
+    {% block content %}
+    {% endblock %}
+
+    {% if home %}
+    {% else %}
+    <div class="sidebar">
+        {% if latest-posts|not-empty %}
+        {% for post in latest-posts %}
+        <div class='{% ifequal post.layout "youtube.html" %}video{% else %}post{% endifequal %} preview'>
+            {% ifequal post.layout "youtube.html" %}
+            <a href="{{post.uri}}"><img src="{{post.thumbnail}}" alt="{{post.title}}"/></a>
+            {% endifequal %}
+            <div class="element">
+                <h2><a href="{{post.uri}}">{{post.title}}</a></h2>
+                {% if post.author %}
+                <span class="author">{{post.author}}</span>
+                {% endif %}
+                <span class="date">{{post.date|date:longDate}}</span>
+                {% ifequal post.layout "youtube.html" %}
+                {% else %}
+                <div class="content">{{post.content|safe}}</div>
+                <a class="read-more" href="{{post.uri}}">Read More</a>
+                {% endifequal %}
+            </div>
+        </div>
+        {% endfor %}
+        {% endif %}
+    </div>
+    {% endif %}
+</div>
+
+<footer>
+    <p class="description">{{description}}</p>
+    <small>&copy; {{today|date:yyyy}} {{author}}</small>
+</footer>
+
+</body>
+</html>

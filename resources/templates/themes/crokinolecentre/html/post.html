@@ -1,0 +1,19 @@
+{% extends "/html/base.html" %}
+{%block subtitle %}: {{post.title}}{% endblock %}
+{% block content %}
+<article>
+    <div class="post">
+        <div class="element">
+            {% include "/html/post-content.html" %}
+        </div>
+    </div>
+    <div class="prev-next">
+        {% if post.next %}
+        <a class="prev" href="{{post.next.uri}}" title="{{post.next.title}}">&laquo; Previous</a>
+        {% endif %}
+        {% if post.prev %}
+        <a class="next" href="{{post.prev.uri}}" title="{{post.prev.title}}">Next &raquo;</a>
+        {% endif %}
+    </div>
+</article>
+{% endblock %}

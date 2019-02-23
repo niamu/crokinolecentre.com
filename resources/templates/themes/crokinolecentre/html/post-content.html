@@ -1,0 +1,6 @@
+<h2><a href="{{post.uri}}">{{post.title}}</a></h2>
+{% if post.author %}
+<span class="author">{{post.author}}</span>
+{% endif %}
+<span class="date">{{post.date|date:longDate}}</span>
+<div class="content">{{post.content|safe}}</div>

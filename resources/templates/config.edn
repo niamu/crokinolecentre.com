@@ -1,0 +1,31 @@
+{:site-title           "CrokinoleCentre"
+ :author               "Nathan Walsh"
+ :author-url           nil
+ :author-avatar        "https://2.bp.blogspot.com/-cj21eDI7od8/T3oR3pIDchI/AAAAAAAAAAQ/2SJW7QuIqGQ/s151/wcc_adult2_6642.jpg"
+ :tagline              "All of the news following competitive Crokinole."
+ :description          "CrokinoleCentre was created to capture the competitive crokinole scene. It is hoped that CrokinoleCentre will help stimulate interest in the competitive side of crokinole, and bring the game to the next level. If you have a crokinole story, club, or tournament to share, let CrokinoleCentre know."
+ :site-url             "http://crokinolecentre.com/"
+ :post-root            "posts"
+ :page-root            "pages"
+ :post-root-uri        ""
+ :page-root-uri        ""
+ :tag-root-uri         "tags"
+ :blog-prefix          ""
+ :rss-name             "feed.xml"
+ :rss-filters          []
+ :recent-posts         10
+ :post-date-format     "yyyy-MM-dd"
+ :archive-group-format "yyyy"
+ :sass-src             []
+ :sass-path            "sass"
+ :theme                "crokinolecentre"
+ :resources            ["images"]
+ :keep-files           [".git"]
+ :disqus?              false
+ :ignored-files        [#"\.#.*" #".*\.swp$"]
+ :posts-per-page       6
+ :blocks-per-preview   3
+ :previews?            true
+ :clean-urls?          true
+ :hide-future-posts?   true
+ :debug?               false}
