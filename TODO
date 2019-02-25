@@ -1,2 +1,0 @@
-- youtube-posts script to download latest videos metadata and update _downloaded.txt archive
-- deploy script to strip off .html extension for S3 (https://kylewbanks.com/blog/jekyll-blog-on-s3-without-html-extension)

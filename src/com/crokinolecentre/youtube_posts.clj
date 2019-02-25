@@ -28,7 +28,12 @@
       (update :duration format-duration
               :thumbnail #(-> (string/replace % #"maxresdefault" "mqdefault")
                               (string/replace #"hqdefault" "mqdefault")))
-      (assoc :filename (string/replace (.getName file) #"\.json" ".md")
+      (assoc :filename (-> (.getName file)
+                           (string/replace ".info.json" ".md")
+                           string/lowercase
+                           (string/replace " " "-")
+                           (string/replace "---" "-")
+                           (string/replace #"^([0-9]{4})([0-9]{2})" "$1-$2-"))
              :author "Nathan Walsh"
              :layout :youtube)))
 
@@ -48,4 +53,4 @@
   []
   (map (comp write-post parse-post)
        (->> (file-seq (io/file "resources/youtube-dl"))
-            (filter #(and (.isFile %) (string/ends-with? % ".json"))))))
+            (filter #(and (.isFile %) (string/ends-with? % ".info.json"))))))
