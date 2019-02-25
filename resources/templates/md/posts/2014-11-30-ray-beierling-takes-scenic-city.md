@@ -41,6 +41,7 @@ EDIT: As pointed out by Ray Beierling himself, Justin Slater and Brian Cook have
 
 The Owen Sound results keep the NCA Tour a fairly tight race, with Justin Slater holding a slight cushion in the lead. It's still too early to  begin throwing around projections, but look for players less tournaments played, like Brian Cook, Matt Brown, Jason Beierling, Roger Vaillancourt and Louis Gauthier, to make some advancements later in the season.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -175,9 +176,11 @@ The Owen Sound results keep the NCA Tour a fairly tight race, with Justin Slater
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Meanwhile, on the year-round CrokinoleCentre rankings, the Ray Beierling victory moves him into a co-#1-ranking with Brian Cook for the singles category. The full rankings can be found in the "CrokinoleCentre Rankings" tab above.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -283,6 +286,7 @@ Meanwhile, on the year-round CrokinoleCentre rankings, the Ray Beierling victory
 		</tr>
 	</tbody>
 </table>
+</div>
 
 [![People playing crokinole](/images/2014-11-30-ray-beierling-takes-scenic-city/IMG_3279.jpg)](/images/2014-11-30-ray-beierling-takes-scenic-city/IMG_3279.jpg)
 

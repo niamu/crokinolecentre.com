@@ -25,6 +25,7 @@ With the win Ray Beierling can add another achievement to his crokinole career, 
 
 Note: Since the New York tournament is completely new to the NCA, no ranking points came off any players score, as such the Points Change column are all positives as no players lost any points from their most previous ranking.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -218,9 +219,11 @@ Note: Since the New York tournament is completely new to the NCA, no ranking poi
 		</tr>
 	</tbody>
 </table>
+</div>
 
 In the overall category, Jon Conrad remains at the top with the exact same top 5. With the addition of New York, Justin Slater has been able to compete in 4 ranked events in the past 12 months and finally has a "true" ranking, putting him 6th overall.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -374,5 +377,6 @@ In the overall category, Jon Conrad remains at the top with the exact same top 5
 		</tr>
 	</tbody>
 </table>
+</div>
 
 The next tournament is set for September 21st in Belleville, details can be found here: [http://www.nationalcrokinoleassociation.com/tournaments.php](http://www.nationalcrokinoleassociation.com/tournaments.php)

@@ -11,6 +11,7 @@ Andrew Hutchinson AND Dwayne Campbell
 
 (Posted below are the top 12 finishers, and if you would like your own score and position, please send me a message.)
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -206,6 +207,7 @@ Andrew Hutchinson AND Dwayne Campbell
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Dwayne and Andrew were both snake-bitten in terms of qualifications throughout the day for their singles play (let's not take too long on this though and spoil the WCC results blog that will come later), but both came through where it really counts and for the first time ever we have a tie for the 4th annual award of the most coveted and sought after prize in the fantasy sports world.
 

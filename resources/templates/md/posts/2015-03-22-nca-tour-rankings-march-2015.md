@@ -9,6 +9,7 @@ It has become a common theme at CrokinoleCentre to break down NCA Tour Rankings,
 
 What follows is the current Tour standings of the top 25 players. Explanations of the columns are found beneath the chart. (Note: This isn't updated to include the BC results.)
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -250,6 +251,7 @@ What follows is the current Tour standings of the top 25 players. Explanations o
 		</tr>
 	</tbody>
 </table>
+</div>
 
 *The first few columns contain the names and current points. Afterwards you'll see the "4th and 3rd score" columns. These indicate the 4th and 3rd highest tournament scores that make up the player's current score. With there only being two events remaining, these scores are the ones that will be removed should a player record a higher score in one of these last 2 events.*
 

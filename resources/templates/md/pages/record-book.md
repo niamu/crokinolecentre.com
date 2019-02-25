@@ -7,8 +7,11 @@ Disclaimer: Detailed results do not exist for all WCC, NCA and Hungarian Federat
 
 These records were last updated following the 2018 Scenic City Crokinole Classic in Owen Sound.
 
-### Most 20s Scored (Normalized to 10 games, 4 game minimum)
+### Most 20s Scored
 
+<small>(Normalized to 10 games, 4 game minimum)</small>
+
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -125,9 +128,13 @@ These records were last updated following the 2018 Scenic City Crokinole Classic
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### 20s World Record Timeline (Normalized to 10 games, 4 game minimum)
+### 20s World Record Timeline
 
+<small>(Normalized to 10 games, 4 game minimum)</small>
+
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -188,9 +195,13 @@ These records were last updated following the 2018 Scenic City Crokinole Classic
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Most 20s Scored by Tournament (Normalized to 10 games, 4 game minimum)
+### Most 20s Scored by Tournament
 
+<small>(Normalized to 10 games, 4 game minimum)</small>
+
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -332,11 +343,15 @@ These records were last updated following the 2018 Scenic City Crokinole Classic
 		</tr>
 	</tbody>
 </table>
+</div>
 
 *\*Non-annually-recurring event*
 
-### Most 20s Scored (Normalized to 10 games, no game minimum)
+### Most 20s Scored
 
+<small>(Normalized to 10 games, no game minimum)</small>
+
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -453,9 +468,13 @@ These records were last updated following the 2018 Scenic City Crokinole Classic
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Most 20s Scored (Normalized to 10 games, 12 game minimum)
+### Most 20s Scored
 
+<small>(Normalized to 10 games, 12 game minimum)</small>
+
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -572,3 +591,4 @@ These records were last updated following the 2018 Scenic City Crokinole Classic
 		</tr>
 	</tbody>
 </table>
+</div>

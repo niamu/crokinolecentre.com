@@ -23,6 +23,7 @@ A popular feature of the tournament among the players is not in the gameplay of 
 
 Getting back to the final results here's a look at the top 5 scoring players from the event.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -65,12 +66,14 @@ Getting back to the final results here's a look at the top 5 scoring players fro
 		</tr>
 	</tbody>
 </table>
+</div>
 
 St. Jacob's had a very strong day and were able to place all four players in the top 10 individual spots. That would be enough to win the tournament as they scored a collective of 304 points.
 A congratulations must be given to Quinte as well for taking second place in their first attendance at the event. 
 
 The following is a breakdown of each team's score, including how each team scored against one another.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -137,6 +140,7 @@ The following is a breakdown of each team's score, including how each team score
 		</tr>
 	</tbody>
 </table>
+</div>
 
 While Varna was able to beat their arch rivals, St. Jacob's, in the head-to-head battle 67-61, they were not able to score high enough to reach the top two.
 

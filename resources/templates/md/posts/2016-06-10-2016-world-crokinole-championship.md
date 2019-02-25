@@ -15,6 +15,7 @@ Posted below are the top 10 finishers. (If you would like your own score and pos
 
 And the winner is...
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -180,6 +181,7 @@ And the winner is...
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Roy Campbell wins the title with 580 points, narrowly ahead of Jon Conrad in second, and Nathan Walsh and Ray Beierling tied in third.
 

@@ -10,6 +10,7 @@ The scores are calculated using the NCA tournaments and NCA point system. A play
 
 The Singles Category is calculated in the same way, while only using results from Singles tournaments.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -872,3 +873,4 @@ The Singles Category is calculated in the same way, while only using results fro
 		</tr>
 	</tbody>
 </table>
+</div>

@@ -34,6 +34,7 @@ After 12 games, half of the round robin, play stopped as the players were treate
 
 With every on the line in the afternoon, the Varna club inched forward and the London club lost some ground. At the end of the final game, the Varna Crokinole Club had amassed 495 points to earn the title, with the London Crokinole Club finishing with 460 for second place and their highest finish in club history. Waterloo would round out the top 3 with 400 points, and a 20 point edge over their cross-county rivals of St. Jacobs.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -136,7 +137,9 @@ With every on the line in the afternoon, the Varna club inched forward and the L
 		</tr>
 	</tbody>
 </table>
+</div>
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -209,6 +212,7 @@ With every on the line in the afternoon, the Varna club inched forward and the L
 		</tr>
 	</tbody>
 </table>
+</div>
 
 ### Other Notes
 

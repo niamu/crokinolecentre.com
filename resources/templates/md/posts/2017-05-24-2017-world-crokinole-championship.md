@@ -32,6 +32,7 @@ This year, the groups were divided based on CrokinoleCentre rankings and the 201
 - Group C - The top 25 from CrokinoleCentre's rankings, or anyone who finished in the top 25 in the 2016 WCC.
 - Group D - Any player not listed in Groups A, B or C. As a guide, a list of notable players have been provided.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -158,6 +159,7 @@ This year, the groups were divided based on CrokinoleCentre rankings and the 201
 		</tr>
 	</tbody>
 </table>
+</div>
 
 NOTE: For Group D, you are allowed to select anyone not listed in Groups A, B or C. The players listed here are simply a small collection of notable players eligible to be selected.
 

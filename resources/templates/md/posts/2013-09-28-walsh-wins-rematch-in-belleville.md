@@ -32,6 +32,7 @@ The very competitive match saw each player score 7 20's in the third round of th
 
 After those results, here's a look at the updated CrokinoleCentre rankings for the top 20 spots. Also attached are the rank and points changes from the previous rankings released after the New York tournament.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -185,6 +186,7 @@ After those results, here's a look at the updated CrokinoleCentre rankings for t
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Walsh, Gauthier, Gorsline, Matt and Dave Brown all saw a decent boost in their total points due to strong results in Belleville.
 

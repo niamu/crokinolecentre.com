@@ -15,6 +15,7 @@ With that said I've decided to release two sets of rankings. One to include both
 
 So here are the full CrokinoleCentre rankings.
 
+<div class="table-wrapper">
 <table>
 	<tbody>
 		<th>
@@ -174,11 +175,13 @@ So here are the full CrokinoleCentre rankings.
 		</tr>
 	</tbody>
 </table>
+</div>
 
 As you can see Brian Cook remains on top for the 2nd straight tournament, Nathan Walsh moves up from 8th to 7th, Louis Gauthier cracking the top 10 and Matt Brown moving up well to 13th. Obviously not a whole lot of movement but that is to be expected with a ranking system that takes place over 2 years. With the official release of the WCC points there are quite a few new faces on the list who now hold their rightful positions in the rankings, which I was unable to capture with the first ranking release.
 
 And here is a similar, but different, only singles ranking.
 
+<div class="table-wrapper">
 <table>
 	<tbody>
 		<th>
@@ -338,6 +341,7 @@ And here is a similar, but different, only singles ranking.
 		</tr>
 	</tbody>
 </table>
+</div>
 
 As we can see the top 3 changes as it's Cook, Conrad and Jason Beierling. It's an interesting shuffle as Fred Slater falls 3 spots, Jason Beierling pops ahead of Ray Beierling and Eric Miltenburg rounds out the top 5. Joe Arnup slides back ahead of Nathan Walsh, but the rest stay pretty much the same. Overtime the singles rankings should be much more open to change as less tournaments give way for a greater chance of players shifting positions.
 

@@ -65,6 +65,7 @@ It was an extra bonus for Ray Beierling - not only winning his 3rd-straight NCA 
 
 With the NCA Tour moving closer to the end of the 2014-2015 season, players are starting to keep a closer eye on the Tour Rankings. Justin Slater still holds the top spot, and likely will until at least the NCA Finale in St. Jacobs in May. Ray Beierling has slid into 2nd place after the win, moving past Nathan Walsh. Meanwhile Brian Cook, only with 4 tournaments, still sits in 4th place at 190 points.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -218,6 +219,7 @@ With the NCA Tour moving closer to the end of the 2014-2015 season, players are 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 It's a little bit too early to start working out all of the possible ranking scenarios, but there is definitely a clearer picture starting to form.
 

@@ -29,6 +29,7 @@ So with this type of logic and precedence in other sports, I present the Crokino
 
 So after some frustrating computer programming, and going through the results of the past 2 years, I have the most accurate rankings I can get based on the given results. As it was a difficult task to get it all set up, and will be much easier to maintain now that the most difficult work is out of the way, I was only able to track about 50 players, to which I will only release the top 30. Beyond that, the chance for a miscalculation is much greater.
 
+<div class="table-wrapper">
 <table>
 	<tbody>
 		<th>
@@ -188,6 +189,7 @@ So after some frustrating computer programming, and going through the results of
 		</tr>
 	</tbody>
 </table>
+</div>
 
 I'm quite satisfied with how the rankings turned out. The fact that Brian Cook still sits in the top spot shows that these rankings reward consistency. While Jon Conrad's accomplishments on the 2012 World Championships rightfully boost his ranking, I think it is fitting that they do not yet surpass Cook's strong play of the last two years. I think that each ranking beyond that is quite consistent with where it should be with only a few exceptions.
 

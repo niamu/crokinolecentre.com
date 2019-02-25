@@ -1,6 +1,7 @@
 (ns com.crokinolecentre.style
   (:require
    [binnacle.core :as binnacle]
+   [clojure.string :as string]
    [garden.core :as garden]
    [garden.color :as color]
    [garden.selectors :as selectors]
@@ -61,20 +62,21 @@
 
 (def typography
   [[:body {:font [["15px/18px" "Helvetica"] "Arial" "sans-serif"]}]
-   [:h1 :h2 :h3 :h4 {:line-height (units/em 1.2)
-                     :font-family "Aleo"
-                     :margin [[0 0 (units/em 0.5)]]}
+   [:h1 :h2 {:line-height (units/em 1.2)
+             :font-family "Aleo"
+             :margin [[0 0 (units/em 0.5)]]}
     [:a {:color (theme 2)}]]
    [:h1 {:position :relative
          :text-shadow [[(units/px 1) (units/px 1) (units/px 1)
                         (assoc (color/as-rgb (theme 2))
                                :alpha 0.4)]]
          :color (theme 0)}]
-   [:article [:h2 {:font-size (units/percent 250)
+   [:article [:h2 {:font-size (units/percent 200)
                    :margin 0}]]
-   [:h3 :h4 {:margin-top (units/em 2)}]
+   [:h3 :h4 {:color (color/lighten (theme 2) 30)
+             :font-weight 300}]
    [:h3 {:font-size (units/percent 150)
-         :text-align :center}]
+         :margin [[(units/em 1.5) 0 (units/em 0.5)]]}]
    [:h4 {:font-size (units/percent 120)
          :color (color/lighten (theme 2) 30)}]
    [:a {:text-decoration :none
@@ -82,10 +84,12 @@
     [:&:hover {:color (color/lighten (theme 4) 15)}]]])
 
 (def table
-  [[:table
-    {:display :block
-     :width (units/percent 100)
-     :overflow-x :scroll}]
+  [[:.table-wrapper
+    {:max-width (units/percent 90)
+     :margin [[0 :auto]]
+     :overflow-x :scroll}
+    [:table
+     {:margin [[0 :auto]]}]]
    [:tbody
     [:tr
      [(selectors/& (selectors/nth-child :odd))
@@ -151,21 +155,52 @@
                   :border-color (theme 0)}]]]]]])
 
 (def media
-  [[:img :iframe
+  [[:figure
+    {:margin 0}
+    [:figcaption
+     {:max-width (units/percent 90)
+      :text-align :center
+      :font-size (units/percent 80)
+      :margin [[(units/em 0.5) :auto 0]]}]]
+   [:img :iframe
     {:display :block
      :max-width (units/percent 100)
      :border :none}]
    [:article
-    [:img :iframe
+    [:img :iframe :.twitter-tweet
      {:max-width (units/percent 90)
       :margin [[0 :auto]]
-      :background-color :black
       :box-shadow [[0 0 (units/px 10)
                     (assoc (color/as-rgb (theme 2))
-                           :alpha 0.4)]]}]]])
+                           :alpha 0.4)]]}]
+    [:.twitter-tweet {:box-shadow :none}]
+    [:iframe {:background-color :black}]]])
 
 (def posts
-  [[:article
+  [[:.archives
+    [:ul {:list-style :none
+          :padding 0}
+     [:li
+      {:display :list-item
+       :width :auto
+       :min-height (units/px 18)
+       :padding [[0 0 0 (units/px 28)]]
+       :margin [[0 0 (units/em 0.5) (units/em 0.5)]]
+       :background [[(url (-> assets
+                              (binnacle/data-url [:paragraph-justify-2.svg])
+                              (string/replace " " "%20")
+                              (string/replace "#" "%23")
+                              (string/replace "\"" "\\\"")))
+                     :left :center :no-repeat]]
+       :box-shadow :none}
+      {:background-size (units/px 18)}]
+     [:li.video
+      {:background-image (url (-> assets
+                                  (binnacle/data-url [:play.svg])
+                                  (string/replace " " "%20")
+                                  (string/replace "#" "%23")
+                                  (string/replace "\"" "\\\"")))}]]]
+   [:article
     {:width (calc [(units/percent 100) \- (units/px 20)])}
     (non-mobile-screen {:flex-grow 1
                         :width :auto})]

@@ -21,6 +21,7 @@ Jon Conrad has a slightly better chance at being victorious. A first place finis
 
 And simply put, Ray Beierling's poll position heading into Saturday can be converted into a NCA title so long has he can stop the winning attempts of Jason Beierling and Jon Conrad. A victory would be Ray Beierling's second NCA title (he once had a 1st-place tie with Justin Slater in 2010).
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -237,6 +238,7 @@ And simply put, Ray Beierling's poll position heading into Saturday can be conve
 		</tr>
 	</tbody>
 </table>
+</div>
 
 *"4th Score" indicates the lowest tournament point total included in a player's score. This number helps calculate the "Max Score" a player would have if they win the final tournament, and the "2nd Place" total received for finishing in second.*
 

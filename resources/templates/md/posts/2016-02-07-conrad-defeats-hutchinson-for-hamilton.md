@@ -33,6 +33,7 @@ There is no word yet on if any eastern players will be making there way to BC fo
 
 ### NCA 2015/2016 Tour Rankings - As of January 31, 2016
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -177,3 +178,4 @@ There is no word yet on if any eastern players will be making there way to BC fo
 		</tr>
 	</tbody>
 </table>
+</div>

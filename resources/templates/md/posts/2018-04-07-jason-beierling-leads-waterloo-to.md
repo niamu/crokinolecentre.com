@@ -21,6 +21,7 @@ Another notable piece was an excerpt from Wayne Kelly's, The Crokinole Book, tha
 
 At the halfway mark, following 12 games, the standings for the top half looked as such:
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -117,6 +118,7 @@ At the halfway mark, following 12 games, the standings for the top half looked a
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Waterloo was off to a good start, leading the way with 263 points, followed by St. Jacobs at 240, London at 234, and Varna at 197. But to come in the afternoon, following the generous lunch and pie of the Schneider Haus staff, were several key head-to-head matches that would determine the winners of the day.
 
@@ -130,6 +132,7 @@ It was in Game 21 that Slater erased the 7 point deficit entirely with an 8-0 vi
 
 Jason Beierling rebounded from the "skunking" earning 17 points in the last 3 games. Justin Slater then finished his set of games against the Waterloo club, winning 6-2 against Reid Tracey, 5-3 over Nathan Walsh and tying 4-4 against Andrew Hutchinson. That left Slater with 141 points, and Jason Beierling with 142.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -202,6 +205,7 @@ Jason Beierling rebounded from the "skunking" earning 17 points in the last 3 ga
 		</tr>
 	</tbody>
 </table>
+</div>
 
 And with the scores being so close, each of Tracey, Walsh and Hutchinson were willing to take the credit for "helping" their Waterloo teammate to grab the narrowest of victories as Jason Beierling earned the individual title for the first time.
 
@@ -209,6 +213,7 @@ As it was painfully pointed out to Slater, this marked the second straight year 
 
 ### Head-to-head team scores
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -311,6 +316,7 @@ As it was painfully pointed out to Slater, this marked the second straight year 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 <figure>
 	<a href="/images/2018-04-07-jason-beierling-leads-waterloo-to/30223314\_10204490494857873\_786242743\_o.jpg"><img src="/images/2018-04-07-jason-beierling-leads-waterloo-to/30223314\_10204490494857873\_786242743\_o.jpg" alt="To play crokinole well with enthusiasm and sportsmanship Waterloo Crokinole Club - 2018 Champions" /></a>

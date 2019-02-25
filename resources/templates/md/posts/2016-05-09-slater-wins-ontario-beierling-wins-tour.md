@@ -29,6 +29,7 @@ It was a first-time finals meeting between Campbell and Slater with 2016 Ontario
 
 ### Ray Beierling Wins 2015-2016 NCA Tour
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -70,6 +71,7 @@ It was a first-time finals meeting between Campbell and Slater with 2016 Ontario
 		</tr>
 	</tbody>
 </table>
+</div>
 
 The final standings of the NCA Tour were packed very tightly with only 3 points separating 1st from 4th. Andrew Hutchinson really did make a statement with his impressive 6th place finish on the Tour. He should be commended, not only for switching from cues to fingers so successfully, but for earning all 172 of his rankings points outside of the World Championships.
 

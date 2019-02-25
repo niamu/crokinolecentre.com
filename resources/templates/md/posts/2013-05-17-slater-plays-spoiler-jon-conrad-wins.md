@@ -55,6 +55,7 @@ So after an incredible start to the NCA Tour, as Jon Conrad became the first to 
 
 Here's the look at the final NCA standings for the 2012-2013 season:
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -196,6 +197,7 @@ Here's the look at the final NCA standings for the 2012-2013 season:
 		</tr>
 	</tbody>
 </table>
+</div>
 
 And what's the best part about the end of another NCA season?
 

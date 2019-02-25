@@ -29,6 +29,7 @@ When play resumed in the afternoon, the battle was on for players to hold and im
 
 Meanwhile, the Waterloo Crokinole Club put forth a very strong effort, and were rewarded with the Club's best ever finish at the event, grabbing 2nd place. The strong Waterloo performance saw St. Jacobs fall to 3rd, just 14 points behind despite beating Waterloo in the head-to-head battle.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -112,11 +113,13 @@ Meanwhile, the Waterloo Crokinole Club put forth a very strong effort, and were 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 The Varna Crokinole Club closed out the day as strong as they had started, beating every team comfortably, with the smallest margin of victory 78-50 over Waterloo, finishing the event with 436 points.
 
 For the individual scoring race, Nathan Walsh was able to claim the top spot for the 3rd-straight year, with 127 points. Not surprisingly, the next 4 spots were held by Varna members, as each broke 100 points.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -177,6 +180,7 @@ For the individual scoring race, Nathan Walsh was able to claim the top spot for
 		</tr>
 	</tbody>
 </table>
+</div>
 
 As previously mentioned, this is the 6th Joseph Schneider Haus victory for the Varna Club. Through the 24 year history, still only 3 clubs have won the event. With this year's win, Varna ended St. Jacobs attempt at winning the title for a third-straight year. Only the now-defunct Cameron Heights Teachers Club can claim the prestige of having won the event 3 years in a row (1994-1996, 2003-2005).
 

@@ -14,6 +14,7 @@ With the London and BC full tournament results now available, we can update the 
 For the NCA with one tournament left, the standing are tight.
 The "Low Score" column shows the lowest score counting in a player's current point total. A score of 0, means that this player has played less than four tournaments, and does not yet have a complete point total. This column gives an indication to how much a player's score can change, as a strong St. Jacob's finish will eliminate their lowest score. Obviously "Max Score" shows the highest possible point total for the player.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -307,6 +308,7 @@ The "Low Score" column shows the lowest score counting in a player's current poi
 		</tr>
 	</tbody>
 </table>
+</div>
 
 I plan on doing a more in depth analysis of the NCA Tour scenarios soon, but for now we'll leave you with a bit of a teaser.
 
@@ -318,6 +320,7 @@ I plan on doing a more in depth analysis of the NCA Tour scenarios soon, but for
 
 And let's not forget about another edition of the CrokinoleCentre rankings, updated as of London 2013 tournament. Here's the top 40:
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -529,12 +532,14 @@ And let's not forget about another edition of the CrokinoleCentre rankings, upda
 		</tr>
 	</tbody>
 </table>
+</div>
 
 You'll notice the top 6 remain unchanged, Louis Gauthier and Clare Kuepfer swap places at 7th and 8th, and Howard Martin reclaims a spot in the top 10 as Paul Brubacher falls from 9th to 14th. By not playing, Justin Slater has reached his highest ranking yet at 11th, and once the PEI results come in, and the points from 2012 get cut in half, he'll even move up into the top 10, as those ahead of him lose points.
 Speaking of PEI, Lawson Lea still holds the highest position of a non-Ontario player, sitting at 18th. And from BC, Quin Erzinger moves up to 26th, with fellow BC contender and highest ranked female, Linda Irvine in 27th.
 
 And in the singles rankings:
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -746,5 +751,6 @@ And in the singles rankings:
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Brian Cook remains out in with no signs of relinquishing his top ranking, though the two most important tournaments of the year are approaching with lots of ranking points up for grabs. With the London results, Jon Conrad's second place finish pushes him ahead of Ray Beierling for a second-third place swap. Jason Beierling's absence, thus not being able to defend his London title has caused him to drop to 7th, allowing Eric Miltenburg to move to 4th, Fred Slater to 5th and Clare Kuepfer up into 6th. The biggest mover was Matt Brown, some nice results moved him up from 18th to now 12th, with the potential to reach the top 10 before the end of the year.

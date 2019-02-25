@@ -17,6 +17,7 @@ Finishing third at the Scenic City Tournament was Ray Beierling, who earned 45 p
 
 And here's a look at the updated CrokinoleCentre Rankings of the Top 30 players:
 
+<div class="table-wrapper">
 <table>
 	<tbody>
 		<th>
@@ -176,9 +177,11 @@ And here's a look at the updated CrokinoleCentre Rankings of the Top 30 players:
 		</tr>
 	</tbody>
 </table>
+</div>
 
 And here's a look at the Singles Rankings:
 
+<div class="table-wrapper">
 <table>
 	<tbody>
 		<th>
@@ -338,6 +341,7 @@ And here's a look at the Singles Rankings:
 		</tr>
 	</tbody>
 </table>
+</div>
 
 As you can see, not much has changed since the last Rankings update as the scores become much more consistent as the rankings begin to take shape.
 

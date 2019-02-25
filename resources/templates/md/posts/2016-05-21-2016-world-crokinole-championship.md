@@ -24,6 +24,7 @@ The separation into 4 different groups is designed to spread out the talent, so 
 
 Last year a ranking system was used to divide up the four groups, but due to some flaws in the rankings it was clearly far from perfect. This year, the groups are divided on a more simplistic basis where Group A consists tournament winners in the past year, Group B are top 16 finishers from the 2015 WCC, and Group C are top 40 finishers from the 2015 WCC. Group D consists of any players not listed in any of the previous groups.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -150,6 +151,7 @@ Last year a ranking system was used to divide up the four groups, but due to som
 		</tr>
 	</tbody>
 </table>
+</div>
 
 NOTE: For Group D, you are allowed to select anyone not listed in Groups A, B or C. The players listed here are simply a small collection of notable players eligible to be selected.
 

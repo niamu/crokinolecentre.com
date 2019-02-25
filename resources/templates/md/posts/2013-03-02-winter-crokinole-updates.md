@@ -9,6 +9,7 @@ With the Winter season coming to a close, the crokinole season is heating up to 
 
 The NCA Tour only has two Ontario tournaments remaining, and the BC Provincial Championships. So here is a look at the top 25 ranked players on the NCA Tour thus far in the 2012-2013 season.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -221,6 +222,7 @@ The NCA Tour only has two Ontario tournaments remaining, and the BC Provincial C
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Since Jon Conrad's magnificent start to the season, he has been able to hold the lead. The maximum amount of points any other player can achieve is 205, and Jon Conrad's lowest scoring tournament this season has given him 45 points. So at 202 points, Conrad can secure the NCA title by either winning the London tournament, or by finishing in the top 3 in St. Jacob's for the NCA finale. For Brian Cook, he can win his 3rd straight NCA title only if Conrad does not accomplish any of the aforementioned tasks, and he wins the tournament in St. Jacob's. In fact, if Conrad finishes 4th in St. Jacob's, and Brian Cook wins in St. Jacob's, the two will tie for the NCA title.
 
@@ -232,6 +234,7 @@ With an outside chance of winning the NCA Tour is Ray Beierling. He has 190 poin
 
 After the Hamilton tournament I took to trying to perfect the ranking system. Before there had been some obvious errors in how the points were tracked. The worst errors were that some top players had been completely off the list. But now the list is much more complete and definitely contains less errors. Here are the top 50 CrokinoleCentre rankings:
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -493,11 +496,13 @@ After the Hamilton tournament I took to trying to perfect the ranking system. Be
 		</tr>
 	</tbody>
 </table>
+</div>
 
 The top 5 still remains unchanged, but both Raymond and Jason Beierling have increased their point totals and are closing in on the top 3. I expect to see the top 5 ranking shift and change after the results come in from the March tournaments. In the latter half of the top 10, Eric Miltenburg, and Louis Gauthier have moved up while Paul Brubacher slides into 9th. Moving up well due to error corrections are Lawson Lea from PEI (16th), Tom Johnston (18th) and Roy Campbell (20th).
 
 Here is a list of the top 50 Singles Only CrokinoleCentre rankings:
 
+<div class="table-wrapper">
 <table>
 	<tbody>
 		<tr>
@@ -752,6 +757,7 @@ Here is a list of the top 50 Singles Only CrokinoleCentre rankings:
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Interesting to note, Ray Beierling swaps places with Jon Conrad in 2nd and 3rd, while Paul Brubacher moves into the top 10, all the way up to 7th, as Nathan Walsh falls out of the top 10 to 11th. With an appropriate point score, Roy Campbell now sits 13th.
 

@@ -32,6 +32,7 @@ This year, the groups were divided based on 2018 NCA Tournament results.
 - Group C - Any player who finished in the Top 8 of a 2017/2018 NCA doubles event, or Top 12 of an NCA singles event.
 - Group D - Any player not listed in Groups A, B or C. As a guide, a list of notable players have been provided.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -158,6 +159,7 @@ This year, the groups were divided based on 2018 NCA Tournament results.
 		</tr>
 	</tbody>
 </table>
+</div>
 
 This is where a little inside information can make the difference. If you know of a real ringer coming in, or you want to take a chance, put then in your lineup.
 

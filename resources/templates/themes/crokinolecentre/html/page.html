@@ -2,13 +2,9 @@
 {%block subtitle %}: {{page.title}}{% endblock %}
 {% block content %}
 
-<article>
-    <div class="post">
-        <div class="element">
-            <h2>{{page.title}}</h2>
-            {{page.content|safe}}
-        </div>
-    </div>
+<article class="post element">
+    <h2>{{page.title}}</h2>
+    {{page.content|safe}}
 </article>
 
 {% endblock %}

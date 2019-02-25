@@ -83,6 +83,7 @@ While Hutchinson doesn't own the NCA record for 5th place finishes, since he joi
 
 ### NCA Tournament 5th Place Finishes
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -139,11 +140,13 @@ While Hutchinson doesn't own the NCA record for 5th place finishes, since he joi
 		</tr>
 	</tbody>
 </table>
+</div>
 
 The next NCA Tour stop is in January of 2019, when the crokinole crowd heads to land where 20s grow on trees: Hamilton, Ontario. For the 2018-2019 Tour, only 3 events remain. Justin Slater leads the pack, but both Ray Beierling and Jason Beierling are one tournament victory away from drawing dead even at the top of pack, while Andrew Hutchinson, Roy Campbell and Jeremy Tracey all eye their career-best Tour finishes in 2019.
 
 ### 2018-2019 NCA Tour Standings
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -185,3 +188,4 @@ The next NCA Tour stop is in January of 2019, when the crokinole crowd heads to 
 		</tr>
 	</tbody>
 </table>
+</div>

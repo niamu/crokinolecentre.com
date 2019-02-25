@@ -43,6 +43,7 @@ It was the second straight final for Andrew Hutchinson, after he was defeated in
 
 As previously mentioned, this 2016 victory is Ray Beierling's 4th in London, to go along with his 2009-2011 streak. The win is also quite significant as it secures Ray Beierling's spot on the podium of the 2015-2016 NCA Tour. Here's an abbreviated look at the current NCA standings (top 4 events count towards ranking points):
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -79,6 +80,7 @@ As previously mentioned, this 2016 victory is Ray Beierling's 4th in London, to 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 With only one event to play, Ray Beierling holds the first place spot and is in the driver seat to win the Tour. Justin Slater is the only player outside of the top 3 who can find his way into a top 3 finish, but he cannot catch Ray Beierling. Jason Beierling and Jon Conrad have the difficult task ahead of them to win the St. Jacobs tournament if they hope to surpass Ray Beierling for the Tour Championship.
 

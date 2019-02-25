@@ -9,6 +9,7 @@ The full results are in and the numbers have been crunched to determine the winn
 
 (Posted below are the top 10 finishers, and if you would like your own score and position, please send me a message.)
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -189,6 +190,7 @@ The full results are in and the numbers have been crunched to determine the winn
 		</tr>
 	</tbody>
 </table>
+</div>
 
 ### Further Analysis
 

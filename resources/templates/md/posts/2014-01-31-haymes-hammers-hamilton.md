@@ -48,6 +48,7 @@ Unlike past seasons, where the Tour champion has almost been decided by this poi
 
 Afterwards, only the London tournament and the NCA Finale in St. Jacob's will remain in this 2013-2014 NCA Tour. Here's a key look at the unofficial Tour points to date. The explanation of this chart is available in the previous blog.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -201,6 +202,7 @@ Afterwards, only the London tournament and the NCA Finale in St. Jacob's will re
 		</tr>
 	</tbody>
 </table>
+</div>
 
 The points race is really heating up. The most obvious battle is between Ray Beierling and Jon Conrad, one which will come down to the final rounds of the St. Jacob's tournament.
 

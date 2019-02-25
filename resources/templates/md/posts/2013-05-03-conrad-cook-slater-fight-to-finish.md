@@ -21,6 +21,7 @@ And in 2011-2012, the potential for an exciting finish was quickly diminished fo
 
 So in the 5th season of the NCA, we have our most exciting finish yet. Here's a portion of the table shown in the last blog.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -76,6 +77,7 @@ So in the 5th season of the NCA, we have our most exciting finish yet. Here's a 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 In the race for first, there are a number of scenarios that could occur. Let's break these out by player to see what must occur for each to earn the 2013 NCA title.
 
@@ -115,6 +117,7 @@ The race for the top 5 is a bit misleading. Louis Gauthier trails Jason Beierlin
 ### The Top 10
 Although you probably won't get any certificates for just a top 10 finish, it's certainly a nice feeling to end out the NCA season knowing that you are ranked among the top 10. Here's the remainder of the list, containing all those who can earn a top 10 finish.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -247,6 +250,7 @@ Although you probably won't get any certificates for just a top 10 finish, it's 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 It's amazing to see that Justin Slater could foreseeably earn a top 10 finish even after playing in only 3 events during a year.
 

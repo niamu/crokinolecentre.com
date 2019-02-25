@@ -35,6 +35,7 @@ In the final, Brian Cook successfully defended his New York title, and began his
 
 Speaking of the NCA Tour, here's a look at the current standings after 3 events.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -153,6 +154,7 @@ Speaking of the NCA Tour, here's a look at the current standings after 3 events.
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Ray Beierling's consistent finishes so far have him in a slight lead, with Jason Beierling and Jon Conrad close behind after the New York event.
 

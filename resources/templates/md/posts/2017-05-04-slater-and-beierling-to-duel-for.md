@@ -19,6 +19,7 @@ Last year Justin Slater made history by winning his 5th consecutive Ontario Sing
 
 Plain and simple: for Ray Beierling to win the NCA Title he must win the St. Jacobs tournament. Justin Slater wins the NCA title with any result other than a Ray Beierling victory.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -129,6 +130,7 @@ Plain and simple: for Ray Beierling to win the NCA Title he must win the St. Jac
 		</tr>
 	</tbody>
 </table>
+</div>
 
 *"4th Score" indicates the lowest tournament point total included in a player's score. This number helps calculate the "Max Score" a player would have if they win the final tournament.*
 

@@ -19,6 +19,7 @@ The focus for this weekend however, remains as the important crokinole matches t
 
 Starting with a look at the NCA Tour Standings, what follows below is the usual chart displaying the current rankings, and the maximum possible scores and ranks that can be achieved with one event remaining (and 55 points for the 1st place finisher).
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -183,6 +184,7 @@ Starting with a look at the NCA Tour Standings, what follows below is the usual 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 ### Battle for First
 

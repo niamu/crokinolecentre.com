@@ -44,6 +44,7 @@ That sent the match to deciding third game. Up 4-2, Walsh was poised to take the
 
 As mentioned, many men were targeting some high scores with the hopes of solidifying their NCA Tour position before the finale. Here's an updated look at the Tour standings with only one tournament to go.
 
+<div class="table-wrapper">
 <table>
 	<tbody>
 		<tr>
@@ -216,6 +217,7 @@ As mentioned, many men were targeting some high scores with the hopes of solidif
 		</tr>
 	</tbody>
 </table>
+</div>
 
 There will be a much more in depth analysis of these standings and all of the possible outcomes regarding the race at a later date, closer to the NCA Tour Finale in St. Jacob's, also known as the Ontario Singles Championships, which takes place on May 10th.
 

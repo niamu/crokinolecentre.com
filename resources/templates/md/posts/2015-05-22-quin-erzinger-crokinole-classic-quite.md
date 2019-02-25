@@ -26,6 +26,7 @@ The remaining 8 games of singles were played after the fantastic lunch was held.
 
 After tabulating the scores, the following results were generated (listed below is the top 10).
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -98,6 +99,7 @@ After tabulating the scores, the following results were generated (listed below 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 True to his lore, Quin Erzinger thumped in a tournament-high 174 20s, which also included a "perfect-round" in the very first game of the tournament against Roy Campbell. Also sharing in some fame was Jason Beierling, who scored a perfect-round in the very last game of the tournament against Nathan Walsh.
 

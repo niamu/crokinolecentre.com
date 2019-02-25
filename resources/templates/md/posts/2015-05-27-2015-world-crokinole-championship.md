@@ -23,6 +23,7 @@ The separation into 4 different groups is designed to spread out the talent, so 
 
 I initially thought about drafting the groups subjectively by my own choosing, but then thought it should probably have some objective basis. As such, the groups are determined based on the current [CrokinoleCentre Rankings](/rankings).
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -161,6 +162,7 @@ I initially thought about drafting the groups subjectively by my own choosing, b
 		</tr>
 	</tbody>
 </table>
+</div>
 
 **Note**: For Group D the players listed above are ranked 41 to 60, **but you are also permitted to pick any player not included in any of the other groups**.
 

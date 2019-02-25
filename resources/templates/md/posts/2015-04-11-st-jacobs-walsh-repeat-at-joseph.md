@@ -33,6 +33,7 @@ The St. Jacobs Crokinole Club returned to the tournament with the same quartet t
 
 ### 2015 Joseph Schneider Haus Team vs Team Comparison
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -123,6 +124,7 @@ The St. Jacobs Crokinole Club returned to the tournament with the same quartet t
 		</tr>
 	</tbody>
 </table>
+</div>
 
 In what was the closest finish in tournament history, the St. Jacobs Crokinole Club retained the team title with 403 points, barely edging Varna with 401. Meanwhile Waterloo claimed their highest finish in club history with a 3rd place finish.
 
@@ -135,6 +137,7 @@ The Team vs Team scores reveal that the Varna club actually edged out every team
 
 The competition was also very tight for the individual honours. 6 players of the 24 were able to reach triple-digits (out of a possible 160 points).
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -183,6 +186,7 @@ The competition was also very tight for the individual honours. 6 players of the
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Nathan Walsh repeated as the individual champion, while Jon Conrad and Ray Beierling rounded out the top 3. Incredibly, the 8 members from Varna and St. Jacobs all ended up finishing in the top 9. St. Jacobs grabbed 2nd, 4th, 7th and 8th(tied), while Varna finished in 3rd, 5th, 6th and 8th(tied).
 

@@ -15,6 +15,7 @@ Let's take a look at just who has a chance to finish on top, in the top 3 and in
 
 This table details the top 30 of the current NCA standings, and the maximum points and position a player can earn, based on their 4th lowest score which comprises their point total. As you can see, 7 players can finish first, 9 can finish in the top 3, 11 in the top 5, and 24 can finish in the top 10.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -269,9 +270,11 @@ This table details the top 30 of the current NCA standings, and the maximum poin
 		</tr>
 	</tbody>
 </table>
+</div>
 
 This next table provides some more crucial detail. It shows the top 20 players, and their final NCA score based on their possible finish in St. Jacobs. As an example, this table shows that if Ron Haymes finshes 3rd at the St. Jacobs tournament, he'll have 195 points.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -530,6 +533,7 @@ This next table provides some more crucial detail. It shows the top 20 players, 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 ### Race for 1st
 
@@ -542,6 +546,7 @@ Ray Haymes also has an outside chance at winning the NCA title. If he were to wi
 
 The most likely scenario though is that either Ray Beierling or Jon Conrad will win the 2013-2014 NCA Tour, and collect their 2nd NCA title. Conrad controls his own fate and will win the Tour with a top 2 finish, but he is not in the driver seat as a finish of 7th or lower means he has no chance of winning. There is a large load of other scenarios, let's look at it compared to Conrad's potential St. Jacobs finishes.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -584,6 +589,7 @@ The most likely scenario though is that either Ray Beierling or Jon Conrad will 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Obviously from this we can see that Ray Beierling's best chance to win the NCA Tour is with a St. Jacob's win and Jon Conrad finishing out of the top 2, though other scenarios do exist as displayed in the table.
 

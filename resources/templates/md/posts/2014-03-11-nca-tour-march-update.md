@@ -9,6 +9,7 @@ We are a little over a week removed from the BC Provincial Championships, and th
 
 But the main focus of this writeup is to take a long look at the current NCA Tour points race, now knowing that only two events remain. Here's a look at the top 25 ranked players.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -249,6 +250,7 @@ But the main focus of this writeup is to take a long look at the current NCA Tou
 		</tr>
 	</tbody>
 </table>
+</div>
 
 The first few columns contain the names and current points, as of the Hamilton tournament. Afterwards you'll see the "4th and 3rd score" columns. These indicate the 4th and 3rd highest tournament scores that make up the player's current score. With there only being two events remaining, these scores are the ones that will be removed should a player record a higher score in one of these last 2 events.
 

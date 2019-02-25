@@ -36,6 +36,7 @@ All joking aside, it will be nice to see if they find a bump in registration tha
 Normally analysis of NCA Tour standings are reserved later in the crokinole season when the races for the top spots have taken shape and players are close to clinching the top spot. Well it's October, and don't look now, but one player in particular is extremely close to cementing a high score with many tournaments to play.
 If you have been paying attention, that player, unsurprisingly, is Justin Slater.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -196,6 +197,7 @@ If you have been paying attention, that player, unsurprisingly, is Justin Slater
 		</tr>
 	</tbody>
 </table>
+</div>
 
 With only 3 tournaments player, Slater sits in 3rd place - 157 points. Supposing he racks up at least one more tournament victory before the St. Jacobs finale (certainly a feasible task), he'll sit at 207 points.
 
@@ -209,6 +211,7 @@ While the crokinole season is still young, the race for the NCA Tour title may b
 
 The CrokinoleCentre rankings have been around for two years now and have been an interesting side project to look at every now and then. Here's a look at the top 25 for both the singles category and the overall. A full listing the updated rankings can be found on the Crokinole Rankings tab above.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -449,6 +452,7 @@ The CrokinoleCentre rankings have been around for two years now and have been an
 		</tr>
 	</tbody>
 </table>
+</div>
 
 After Jon Conrad owned the number one ranking all last season, there have been significant changes. Ray Beierling grabbed the number one spot after the World Championships, then Brian Cook regained the throne after winning in New York. And now, Justin Slater has finally recorded enough tournament results to get a full ranking, and firmly sits at the top. While Walsh, Brown and Campbell have climbed to career highs, Slater has amassed a massive 312 points, which should secure the number one ranking at least until May of 2015.
 

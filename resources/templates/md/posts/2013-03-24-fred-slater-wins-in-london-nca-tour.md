@@ -25,6 +25,7 @@ Game two became a game of strategy, as both players made some interesting moves 
 
 Early on this season appeared as though the Tour title would be wrapped up quickly as Jon Conrad got off to that fantastic start at the World Championships. But with Brian Cook's four straight tournament victories, and Fred Slater's most recent win, this is shaping up to be the most exciting Tour finish yet. With only one tournament to go, only three players have a shot at claiming the NCA's top prize.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -59,6 +60,7 @@ Early on this season appeared as though the Tour title would be wrapped up quick
 		</tr>
 	</tbody>
 </table>
+</div>
 
 (Lowest Score - Refers to the lowest score included in a player's overall point total, i.e. their 4th highest score.)
 

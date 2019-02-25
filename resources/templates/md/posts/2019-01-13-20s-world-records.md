@@ -43,6 +43,7 @@ For those interested, the dataset is available upon request.
 
 This category represents the most 20s ever scored in a single "stage" of any tournament, and is clearly biased by the number of games involved in the round robin.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -103,6 +104,7 @@ This category represents the most 20s ever scored in a single "stage" of any tou
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Most will agree it's best to refer to a game-adjusted 20 count (the preference here is to use the 10-game adjusted score), so that records aren't dominated by something as trivial as the size of the round robin.
 
@@ -110,6 +112,7 @@ Most will agree it's best to refer to a game-adjusted 20 count (the preference h
 
 This category adjusts all 20s scores for the number of games played, and ranks based on the pace that would have been achieved should the round have contained 10 games.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -156,6 +159,7 @@ This category adjusts all 20s scores for the number of games played, and ranks b
 		</tr>
 	</tbody>
 </table>
+</div>
 
 The earlier point about the number of games played becomes clear now. Some ludicrous 20s scores that have never been anywhere close to being achieved in an actual 10-game round are posted in round robins of 3 games or less.
 
@@ -163,6 +167,7 @@ While there are some players who would enjoy being found at the top of this list
 
 #### Adjusted 20s (Minimum 12 games)
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -279,6 +284,7 @@ While there are some players who would enjoy being found at the top of this list
 		</tr>
 	</tbody>
 </table>
+</div>
 
 The big learning point here is that very rarely do tournaments have round robins that extend past 12 games, given that only 3 events are represented among the top 10. Clearly restricting for such a high number of round robin games played doesn't sufficiently serve those hungry for world record status.
 
@@ -286,6 +292,7 @@ The big learning point here is that very rarely do tournaments have round robins
 
 And now for the big reveal of the most marquee category of them all, and the one that this publication expects will be generally accepted as the most prestigious for the purposes of World Record tracking.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -502,6 +509,7 @@ And now for the big reveal of the most marquee category of them all, and the one
 		</tr>
 	</tbody>
 </table>
+</div>
 
 **STAT CORRECTION ALERT!**
 
@@ -525,6 +533,7 @@ Some consideration was also given to separating the "minimum games" requirement 
 
 Rather than adjusting 20s scores given the tournament in question, the differences in tournaments will be recognized here by showing the current record-holders at each respective tournament included in the analysis.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -648,6 +657,7 @@ Rather than adjusting 20s scores given the tournament in question, the differenc
 		</tr>
 	</tbody>
 </table>
+</div>
 
 *\*Non-annually-recurring event*
 
@@ -655,6 +665,7 @@ Rather than adjusting 20s scores given the tournament in question, the differenc
 
 And to further set the record straight, here's the timeline throughout crokinole's recorded-history of 20s World Record holders, under the constraint of being played in a round robin of at least 4 games.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -715,6 +726,7 @@ And to further set the record straight, here's the timeline throughout crokinole
 		</tr>
 	</tbody>
 </table>
+</div>
 
 This will wrap up the most numerically intensive feature this blog has ever had, but at least prior mistakes were corrected, and if the reader has made it this far, they'll know what targets to aim for in Hamilton to try to set a world record of their own.
 

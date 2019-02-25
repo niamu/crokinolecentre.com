@@ -21,6 +21,7 @@ I'll direct your attention to the two rightmost columns, which provide more deta
 
 This is definitely an important piece of information, as Ray Beierling's lowest score of 50 shows that he cannot improve his point total until the St. Jacob's tournament when more than 50 points are available for a first place finish. While Beierling leads Conrad by 1, Conrad certainly has the advantage, by having more chances to increase his total. As 45 points is a 3rd place finish in regular tournaments, an appearance in the finals will allows Conrad to retake first place.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -162,6 +163,7 @@ This is definitely an important piece of information, as Ray Beierling's lowest 
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Looking into the chart a little more, you get the idea how good of a chance several players have to challenge Beierling and Conrad for the top spot.
 

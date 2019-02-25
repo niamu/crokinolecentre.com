@@ -9,6 +9,7 @@ One year ago the first edition of the CrokinoleCentre rankings were released. Th
 
 When the rankings were first released, here's what the top 20 looked like.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -120,6 +121,7 @@ When the rankings were first released, here's what the top 20 looked like.
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Despite being the first to ever win the doubles and singles categories in one World Championships (and amassing enough points to propel him to his first NCA Tour title), Jon Conrad still sat second to Brian Cook's consistent form. This seemed fair, as the general consesus of players probably still would have ranked Brian Cook ahead of Jon Conrad at the time, even with Conrad's historic feat fresh in their mind.
 Fred Slater, Ray Beierling and Jason Beierling were coming off consecutive years in the NCA top 5. Miltenurg, Arnup, Walsh, Kuepfer and Gauthier all had strong years in the NCA, while Ron Haymes and Paul Brubacher had recently had strong performances in the World Championships.
@@ -130,6 +132,7 @@ One full year later and not much has changed among the top group. Most noticeabl
 
 The rankings points also show a clear distinction between the top 5 and the field, with 33 points between 5th and 6th. A much larger gap than at the start of the year where only 11.5 points separated 5th and 6th. An equally fitting result as the top 5 players, made up the championship finals of every Ontario tournament with the exception of 3. The only Ontario tournament not won by one of these top 5 players was the 2013 St. Jacob's.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -441,11 +444,13 @@ The rankings points also show a clear distinction between the top 5 and the fiel
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Throughout the year, the results of only the singles events of the year have been tracked, with the idea that removing the doubles tournaments will provide as different look at each players form, and perhaps give a better idea of who the top players are.
 
 At the start of the year the top 5 looked like this:
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -492,9 +497,11 @@ At the start of the year the top 5 looked like this:
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Throughout the year Brian Cook held the number 1 spots in both ranking categories, and will remain the number 1 ranked player in this category at the end of the season. However, the hunt for the top spot has become much tighter with less than 4 points separating the top 3 players. Furthermore, that hunt for the top has created a massive gap between the top 3 and the remaining field, separated by 38 points.
 
+<div class="table-wrapper">
 <table>
 	<thead>
 		<tr>
@@ -656,6 +663,7 @@ Throughout the year Brian Cook held the number 1 spots in both ranking categorie
 		</tr>
 	</tbody>
 </table>
+</div>
 
 Overall it has been an enjoyable start to producing and tracking these rankings, and this will continue into the future.
 
