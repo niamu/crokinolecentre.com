@@ -1,6 +1,6 @@
 {:paths ["src" "resources"]
  :deps {org.clojure/clojure        {:mvn/version "1.10.0"}
-        cryogen-core               {:mvn/version "0.1.65"}
+        cryogen-core               {:mvn/version "0.1.64"}
         cryogen-markdown           {:mvn/version "0.1.7"}
         garden                     {:mvn/version "1.3.6"}
         com.powernoodle/binnacle   {:mvn/version "0.3.3"}
@@ -11,6 +11,7 @@
   :dev {:extra-paths ["dev"]
         :extra-deps {ring/ring-devel {:mvn/version "1.7.1"}
                      ring-server     {:mvn/version "0.5.0"}
-                     compojure       {:mvn/version "1.6.1"}}}
+                     compojure       {:mvn/version "1.6.1"}}
+        :override-deps {cryogen-core {:mvn/version "0.1.65"}}}
   :youtube-posts {:extra-deps {org.clojure/data.json {:mvn/version "0.2.6"}}
                   :main-opts ["-m" "com.crokinolecentre.youtube-posts"]}}}
