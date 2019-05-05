@@ -3,6 +3,9 @@
  "Crokinole 2016 World Championship - Doubles Beierling/Beierling v Conrad/Kiggins",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/fsoZJeZCLFM/mqdefault.jpg",
+ :duration "00:10:10",
+ :date "2017-01-09",
  :youtube-tags
  ["crokinole"
   "world championship"
@@ -11,10 +14,8 @@
   "beierling"
   "conrad"
   "kiggins"
-  "2016"],
- :thumbnail "https://i.ytimg.com/vi/fsoZJeZCLFM/mqdefault.jpg",
- :duration "00:10:10",
- :date "2017-01-09"}
+  "2016"]}
+
 
 A top 6 doubles playoff game between Ray and Jason Beierling, and Barry Kiggins and Jon Conrad at the 2016 World Crokinole Championship in Tavistock, Ontario.
 

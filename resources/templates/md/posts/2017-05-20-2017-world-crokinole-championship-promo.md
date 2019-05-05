@@ -2,16 +2,17 @@
  :title "2017 World Crokinole Championship Promo",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/AIYzI-ZRZFI/mqdefault.jpg",
+ :duration "00:04:18",
+ :date "2017-05-20",
  :youtube-tags
  ["crokinole"
   "2017"
   "world championship"
   "promo"
   "tavistock"
-  "arkells"],
- :thumbnail "https://i.ytimg.com/vi/AIYzI-ZRZFI/mqdefault.jpg",
- :duration "00:04:18",
- :date "2017-05-20"}
+  "arkells"]}
+
 
 Music - Oh The Boss is Coming, Arkell
 

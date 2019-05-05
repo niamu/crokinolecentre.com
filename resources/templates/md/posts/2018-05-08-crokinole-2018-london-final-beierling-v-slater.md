@@ -2,6 +2,9 @@
  :title "Crokinole - 2018 London Final - Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/vpRp580LwL4/mqdefault.jpg",
+ :duration "00:13:18",
+ :date "2018-05-08",
  :youtube-tags
  ["crokinole"
   "2018"
@@ -11,10 +14,8 @@
   "slater"
   "singles"
   "final"
-  "playoff"],
- :thumbnail "https://i.ytimg.com/vi/vpRp580LwL4/mqdefault.jpg",
- :duration "00:13:18",
- :date "2018-05-08"}
+  "playoff"]}
+
 
 The finals of the 2018 London Crokinole tournament between Ray Beierling and Justin Slater, from London, Ontario.
 

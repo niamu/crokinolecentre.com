@@ -2,10 +2,11 @@
  :title "Crokinole - 2015 Hamilton Final - Beierling v Walsh 2/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags [],
  :thumbnail "https://i.ytimg.com/vi/QNrqWdHSQ1M/mqdefault.jpg",
  :duration "00:07:18",
- :date "2016-01-13"}
+ :date "2016-01-13",
+ :youtube-tags []}
+
 
 Championship match at the 2015 Golden Horseshoe Crokinole Tournament in Hamilton, Ontario between Nathan Walsh and Ray Beierling. This is part 2 of 3 of the match.
 

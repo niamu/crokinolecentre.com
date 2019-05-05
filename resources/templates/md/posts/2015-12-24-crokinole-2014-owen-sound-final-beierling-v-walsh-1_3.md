@@ -2,14 +2,15 @@
  :title "Crokinole - 2014 Owen Sound Final - Beierling v Walsh 1/3",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/Q_5BOhJ8boM/mqdefault.jpg",
+ :duration "00:06:33",
+ :date "2015-12-24",
  :youtube-tags
  ["Crokinole (Game)"
   "Board Game (Game Genre)"
-  "East Zorra-Tavistock (City%2FTown%2FVillage)"
-  "Owen Sound (City)"],
- :thumbnail "https://i.ytimg.com/vi/Q_5BOhJ8boM/mqdefault.jpg",
- :duration "00:06:33",
- :date "2015-12-24"}
+  "East Zorra-Tavistock (City/Town/Village)"
+  "Owen Sound (City)"]}
+
 
 Championship match at the 2014 Scenic City Crokinole Tournament in Owen Sound between Nathan Walsh and Ray Beierling. This is part 1 of 3 of the match.
 

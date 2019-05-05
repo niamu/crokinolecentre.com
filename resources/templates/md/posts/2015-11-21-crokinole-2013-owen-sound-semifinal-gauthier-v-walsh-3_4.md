@@ -2,13 +2,14 @@
  :title "Crokinole - 2013 Owen Sound Semifinal - Gauthier v Walsh 3/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags
- ["Owen Sound (City%2FTown%2FVillage)"
-  "Crokinole (Game)"
-  "Board Game (Game Genre)"],
  :thumbnail "https://i.ytimg.com/vi/G6jCOMLCmvY/mqdefault.jpg",
  :duration "00:05:07",
- :date "2015-11-21"}
+ :date "2015-11-21",
+ :youtube-tags
+ ["Owen Sound (City/Town/Village)"
+  "Crokinole (Game)"
+  "Board Game (Game Genre)"]}
+
 
 Semifinal match at the 2013 Scenic City Crokinole Championship in Owen Sound between Nathan Walsh and Louis Gauthier. This is part 3 of 4 of the match.
 

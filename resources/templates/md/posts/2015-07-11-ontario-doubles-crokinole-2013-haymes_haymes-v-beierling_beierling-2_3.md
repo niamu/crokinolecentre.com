@@ -3,10 +3,12 @@
  "Ontario Doubles Crokinole 2013 - Haymes/Haymes v Beierling/Beierling 2/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags ["crokinole brucefield ontario doubles beierling haymes"],
  :thumbnail "https://i.ytimg.com/vi/rS0pU2Zw57Y/mqdefault.jpg",
  :duration "00:08:36",
- :date "2015-07-11"}
+ :date "2015-07-11",
+ :youtube-tags
+ ["crokinole brucefield ontario doubles beierling haymes"]}
+
 
 The finals of the 2013 Ontario Doubles Crokinole Championship between Ron and Ray Haymes, and Ray and Jason Beierling. This video is part 2 of 3 of the finals.
 

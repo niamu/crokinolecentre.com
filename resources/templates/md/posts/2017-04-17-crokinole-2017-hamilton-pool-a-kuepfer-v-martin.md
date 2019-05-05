@@ -2,6 +2,9 @@
  :title "Crokinole 2017 Hamilton Pool A - Kuepfer v Martin",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/n9J-WO7ctTY/mqdefault.jpg",
+ :duration "00:07:25",
+ :date "2017-04-17",
  :youtube-tags
  ["crokinole"
   "hamilton"
@@ -10,10 +13,8 @@
   "martin"
   "singles"
   "nca"
-  "tournament"],
- :thumbnail "https://i.ytimg.com/vi/n9J-WO7ctTY/mqdefault.jpg",
- :duration "00:07:25",
- :date "2017-04-17"}
+  "tournament"]}
+
 
 A Pool A round robin match from the 2017 Golden Horseshoe Crokinole Tournament between Clare Kuepfer and Howard Martin in Hamilton, Ontario.
 

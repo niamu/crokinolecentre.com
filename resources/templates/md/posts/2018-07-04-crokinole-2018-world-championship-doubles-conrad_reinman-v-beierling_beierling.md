@@ -3,6 +3,9 @@
  "Crokinole 2018 World Championship Doubles - Conrad/Reinman v Beierling/Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/SjAg_xdyhMk/mqdefault.jpg",
+ :duration "00:10:38",
+ :date "2018-07-04",
  :youtube-tags
  ["crokinole"
   "world championship"
@@ -12,10 +15,8 @@
   "reinman"
   "playoffs"
   "doubles"
-  "tavistock"],
- :thumbnail "https://i.ytimg.com/vi/SjAg_xdyhMk/mqdefault.jpg",
- :duration "00:10:38",
- :date "2018-07-04"}
+  "tavistock"]}
+
 
 A doubles playoff match of Jon Conrad and Connor Reinman vs Jason and Ray Beierling at the 2018 World Crokinole Championship in Tavistock, Ontario.
 

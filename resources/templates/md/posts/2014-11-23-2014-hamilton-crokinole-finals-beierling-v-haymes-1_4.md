@@ -2,10 +2,11 @@
  :title "2014 Hamilton Crokinole Finals - Beierling v Haymes 1/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags ["crokinole hamilton 2014 beierling haymes finals"],
  :thumbnail "https://i.ytimg.com/vi/PHkVj02kLl0/mqdefault.jpg",
  :duration "00:06:09",
- :date "2014-11-23"}
+ :date "2014-11-23",
+ :youtube-tags ["crokinole hamilton 2014 beierling haymes finals"]}
+
 
 2014 Golden Horseshoe Crokinole Tournament Final between Ray Beierling and Ron Haymes. This video is Part 1 of 4 of the finals.
 

@@ -3,6 +3,9 @@
  "2018 World Crokinole Championship - Top 4 - J Beierling v Conrad",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/6n3jbpU3Yhw/mqdefault.jpg",
+ :duration "00:06:06",
+ :date "2018-06-13",
  :youtube-tags
  ["crokinole"
   "2018"
@@ -13,10 +16,8 @@
   "playoffs"
   "tavistock"
   "world"
-  "championship"],
- :thumbnail "https://i.ytimg.com/vi/6n3jbpU3Yhw/mqdefault.jpg",
- :duration "00:06:06",
- :date "2018-06-13"}
+  "championship"]}
+
 
 A Final 4 round robin game between Jon Conrad and Jason Beierling at the 2018 World Crokinole Championship in Tavistock, Ontario.
 

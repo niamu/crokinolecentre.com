@@ -3,6 +3,9 @@
  "Crokinole 2015 World Championship - Doubles Slater/Slater v Beierling/Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/taFFZUdhvic/mqdefault.jpg",
+ :duration "00:13:25",
+ :date "2016-04-09",
  :youtube-tags
  ["crokinole"
   "world championship"
@@ -10,10 +13,8 @@
   "tavistock"
   "slater"
   "beierling"
-  "2015"],
- :thumbnail "https://i.ytimg.com/vi/taFFZUdhvic/mqdefault.jpg",
- :duration "00:13:25",
- :date "2016-04-09"}
+  "2015"]}
+
 
 A top 6 doubles playoff game between Ray and Jason Beierling, and Fred and Justin Slater at the 2015 World Crokinole Championship in Tavistock, Ontario.
 

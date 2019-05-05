@@ -7,9 +7,6 @@
 <div class="post preview">
     <div class="element">
         <h2><a href="{{post.uri}}">{{post.title}}</a></h2>
-        {% if post.author %}
-        <span class="author">{{post.author}}</span>
-        {% endif %}
         <span class="date">{{post.date|date:longDate}}</span>
         <div class="content">{{post.content|safe}}</div>
         <a class="read-more" href="{{post.uri}}">Read More</a>
@@ -26,9 +23,6 @@
         <a href="{{post.uri}}"><img src="{{post.thumbnail}}" alt="{{post.title}}"/></a>
         <div class="element">
             <h2><a href="{{post.uri}}">{{post.title}}</a></h2>
-            {% if post.author %}
-            <span class="author">{{post.author}}</span>
-            {% endif %}
             <span class="date">{{post.date|date:longDate}}</span>
         </div>
     </div>

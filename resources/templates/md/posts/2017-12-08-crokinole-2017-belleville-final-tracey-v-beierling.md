@@ -2,6 +2,9 @@
  :title "Crokinole 2017 Belleville Final - Tracey v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/c_8dlovt984/mqdefault.jpg",
+ :duration "00:14:01",
+ :date "2017-12-08",
  :youtube-tags
  ["crokinole"
   "2017"
@@ -12,10 +15,8 @@
   "beierling"
   "nca tour"
   "singles"
-  "tournament"],
- :thumbnail "https://i.ytimg.com/vi/c_8dlovt984/mqdefault.jpg",
- :duration "00:14:01",
- :date "2017-12-08"}
+  "tournament"]}
+
 
 The championship match of the 2017 Belleville Crokinole Challenge between Jeremy Tracey and Ray Beierling in Belleville, Ontario.
 

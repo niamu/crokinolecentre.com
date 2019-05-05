@@ -2,6 +2,9 @@
  :title "Crokinole - European Singes Final - Létay v Berzlánovich",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/VwB4SAgVeF0/mqdefault.jpg",
+ :duration "00:12:17",
+ :date "2018-05-20",
  :youtube-tags
  ["crokinole"
   "europe"
@@ -11,10 +14,8 @@
   "singles"
   "final"
   "hungary"
-  "budapest"],
- :thumbnail "https://i.ytimg.com/vi/VwB4SAgVeF0/mqdefault.jpg",
- :duration "00:12:17",
- :date "2018-05-20"}
+  "budapest"]}
+
 
 The final of the 2018 European Crokinole Championships Soubles event between Attila Berzlánovich (HUN) and Gáspár Létay (HUN).
 

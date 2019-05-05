@@ -3,6 +3,9 @@
  "2016 Ontario Doubles Crokinole Championship - Beierling/Beierling v Slater/Slater Finals",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/P0grz9CG3q8/mqdefault.jpg",
+ :duration "00:50:43",
+ :date "2017-03-25",
  :youtube-tags
  ["crokinole"
   "2016"
@@ -12,10 +15,8 @@
   "slater"
   "beierling"
   "doubles"
-  "nca"],
- :thumbnail "https://i.ytimg.com/vi/P0grz9CG3q8/mqdefault.jpg",
- :duration "00:50:43",
- :date "2017-03-25"}
+  "nca"]}
+
 
 The finals of the 2016 Ontario Doubles Crokinole Championship between Ray and Jason Beierling, and Fred and Justin Slater in Brucefield, Ontario.
 

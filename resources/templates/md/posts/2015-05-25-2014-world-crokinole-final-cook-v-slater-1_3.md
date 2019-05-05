@@ -2,11 +2,12 @@
  :title "2014 World Crokinole Final - Cook v Slater 1/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags
- ["crokinole world championship tavistock ontario canada 2014 cook slater crokinolecentre"],
  :thumbnail "https://i.ytimg.com/vi/K8airvM-m_w/mqdefault.jpg",
  :duration "00:06:54",
- :date "2015-05-25"}
+ :date "2015-05-25",
+ :youtube-tags
+ ["crokinole world championship tavistock ontario canada 2014 cook slater crokinolecentre"]}
+
 
 The final of the 2014 World Crokinole Championship between Brian Cook and Justin Slater in Tavistock, Ontario. This video is part 1 of 3 of the final match.
 

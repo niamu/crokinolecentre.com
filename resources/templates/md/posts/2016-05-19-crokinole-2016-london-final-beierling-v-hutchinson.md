@@ -2,6 +2,9 @@
  :title "Crokinole 2016 London Final - Beierling v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/kn1qn2Om3eo/mqdefault.jpg",
+ :duration "00:10:41",
+ :date "2016-05-19",
  :youtube-tags
  ["crokinole"
   "2016"
@@ -12,10 +15,8 @@
   "nca"
   "singles"
   "tournament"
-  "match"],
- :thumbnail "https://i.ytimg.com/vi/kn1qn2Om3eo/mqdefault.jpg",
- :duration "00:10:41",
- :date "2016-05-19"}
+  "match"]}
+
 
 The championship match of the 2016 Forest City Flickers Crokinole Tournament between Ray Beierling and Andrew Hutchinson in London, Ontario.
 

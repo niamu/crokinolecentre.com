@@ -2,10 +2,12 @@
  :title "World Crokinole Championships - 2012 Promo #2",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags ["WCC" "crokinole" "world" "championships" "2012" "promo"],
  :thumbnail "https://i.ytimg.com/vi/eUHAmIpCeEU/mqdefault.jpg",
  :duration "00:04:02",
- :date "2012-05-20"}
+ :date "2012-05-20",
+ :youtube-tags
+ ["WCC" "crokinole" "world" "championships" "2012" "promo"]}
+
 
 I do not own the rights to this audio track.
 

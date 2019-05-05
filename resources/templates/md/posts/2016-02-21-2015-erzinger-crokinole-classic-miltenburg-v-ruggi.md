@@ -2,10 +2,12 @@
  :title "2015 Erzinger Crokinole Classic - Miltenburg v Ruggi",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags ["crokinole" "hamilton" "erzinger" "miltenburg" "ruggi" "2015"],
  :thumbnail "https://i.ytimg.com/vi/j4S7Hmfn1IM/mqdefault.jpg",
  :duration "00:07:42",
- :date "2016-02-21"}
+ :date "2016-02-21",
+ :youtube-tags
+ ["crokinole" "hamilton" "erzinger" "miltenburg" "ruggi" "2015"]}
+
 
 Eric Miltenburg and Jake Ruggi face off at the 2015 Quin Erzinger Crokinole Classic played in Hamilton, Ontario.
 

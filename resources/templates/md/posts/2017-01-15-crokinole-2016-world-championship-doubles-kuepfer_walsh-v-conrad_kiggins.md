@@ -3,6 +3,9 @@
  "Crokinole 2016 World Championship - Doubles Kuepfer/Walsh v Conrad/Kiggins",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/mlDb7dCaBHo/mqdefault.jpg",
+ :duration "00:12:26",
+ :date "2017-01-15",
  :youtube-tags
  ["crokinole"
   "world championship"
@@ -12,10 +15,8 @@
   "conrad"
   "kuepfer"
   "walsh"
-  "tavistock"],
- :thumbnail "https://i.ytimg.com/vi/mlDb7dCaBHo/mqdefault.jpg",
- :duration "00:12:26",
- :date "2017-01-15"}
+  "tavistock"]}
+
 
 A top 6 doubles playoff game between Clare Kuepfer and Nathan Walsh, and Barry Kiggins and Jon Conrad at the 2016 World Crokinole Championship in Tavistock, Ontario.
 

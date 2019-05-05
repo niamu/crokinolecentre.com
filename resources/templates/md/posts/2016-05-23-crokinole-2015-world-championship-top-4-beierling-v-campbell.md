@@ -3,6 +3,9 @@
  "Crokinole 2015 World Championship - Top 4 Beierling v Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/_zHkdb8kvhU/mqdefault.jpg",
+ :duration "00:08:16",
+ :date "2016-05-23",
  :youtube-tags
  ["crokinole"
   "2015"
@@ -11,10 +14,8 @@
   "campbell"
   "beierling"
   "singles"
-  "playoffs"],
- :thumbnail "https://i.ytimg.com/vi/_zHkdb8kvhU/mqdefault.jpg",
- :duration "00:08:16",
- :date "2016-05-23"}
+  "playoffs"]}
+
 
 A top 4 singles playoff game between Ray Beierling and Roy Campbell at the 2015 World Crokinole Championship in Tavistock, Ontario.
 

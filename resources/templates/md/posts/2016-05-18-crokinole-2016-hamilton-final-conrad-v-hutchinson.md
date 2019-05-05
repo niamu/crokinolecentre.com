@@ -2,6 +2,9 @@
  :title "Crokinole 2016 Hamilton Final - Conrad v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/-6qiwIRt1ZY/mqdefault.jpg",
+ :duration "00:24:01",
+ :date "2016-05-18",
  :youtube-tags
  ["crokinole"
   "2016"
@@ -12,10 +15,8 @@
   "nca"
   "final"
   "tournament"
-  "match"],
- :thumbnail "https://i.ytimg.com/vi/-6qiwIRt1ZY/mqdefault.jpg",
- :duration "00:24:01",
- :date "2016-05-18"}
+  "match"]}
+
 
 The championship match of the 2016 Golden Horseshoe Crokinole Tournament between Jon Conrad and Andrew Hutchinson in Hamilton, Ontario.
 

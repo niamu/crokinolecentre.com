@@ -3,6 +3,9 @@
  "Crokinole 2018 World Championship Doubles - Kuepfer/Walsh v Johnston/Johnston",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/CqGZpFnTex0/mqdefault.jpg",
+ :duration "00:09:50",
+ :date "2018-07-16",
  :youtube-tags
  ["crokinole"
   "2018"
@@ -12,10 +15,8 @@
   "johnston"
   "kuepfer"
   "walsh"
-  "tavistock"],
- :thumbnail "https://i.ytimg.com/vi/CqGZpFnTex0/mqdefault.jpg",
- :duration "00:09:50",
- :date "2018-07-16"}
+  "tavistock"]}
+
 
 A doubles playoff match of Clare Kuepfer and Nathan Walsh vs Tom and Rex Johnston at the 2018 World Crokinole Championship in Tavistock, Ontario.
 

@@ -3,6 +3,9 @@
  "2018 World Crokinole Championship - Top 4 - J Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/rT2UpN8NaIg/mqdefault.jpg",
+ :duration "00:06:20",
+ :date "2018-06-12",
  :youtube-tags
  ["crokinole"
   "world"
@@ -13,10 +16,8 @@
   "singles"
   "top 4"
   "playoffs"
-  "tavistock"],
- :thumbnail "https://i.ytimg.com/vi/rT2UpN8NaIg/mqdefault.jpg",
- :duration "00:06:20",
- :date "2018-06-12"}
+  "tavistock"]}
+
 
 A Final 4 round robin game between Justin Slater and Jason Beierling at the 2018 World Crokinole Championship in Tavistock, Ontario.
 

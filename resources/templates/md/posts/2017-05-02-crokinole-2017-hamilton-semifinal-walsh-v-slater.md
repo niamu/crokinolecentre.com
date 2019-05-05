@@ -2,6 +2,9 @@
  :title "Crokinole 2017 Hamilton Semifinal - Walsh v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/k6Pw0G1qXBU/mqdefault.jpg",
+ :duration "00:13:07",
+ :date "2017-05-02",
  :youtube-tags
  ["slater"
   "walsh"
@@ -11,10 +14,8 @@
   "playoffs"
   "nca"
   "singles"
-  "tournament"],
- :thumbnail "https://i.ytimg.com/vi/k6Pw0G1qXBU/mqdefault.jpg",
- :duration "00:13:07",
- :date "2017-05-02"}
+  "tournament"]}
+
 
 The semifinal from the 2017 Golden Horseshoe Crokinole Tournament between Justin Slater and Nathan Walsh in Hamilton, Ontario.
 

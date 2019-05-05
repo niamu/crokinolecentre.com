@@ -2,6 +2,9 @@
  :title "Crokinole 2017 Hamilton Final - Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/8HhALmPmBYU/mqdefault.jpg",
+ :duration "00:21:02",
+ :date "2017-05-04",
  :youtube-tags
  ["crokinole"
   "slater"
@@ -12,10 +15,8 @@
   "nca"
   "singles"
   "tournament"
-  "championship"],
- :thumbnail "https://i.ytimg.com/vi/8HhALmPmBYU/mqdefault.jpg",
- :duration "00:21:02",
- :date "2017-05-04"}
+  "championship"]}
+
 
 The championship final from the 2017 Golden Horseshoe Crokinole Tournament between Justin Slater and Ray Beierling in Hamilton, Ontario.
 

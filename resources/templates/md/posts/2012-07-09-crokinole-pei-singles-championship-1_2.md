@@ -2,10 +2,11 @@
  :title "Crokinole PEI Singles Championship 1/2",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags ["crokinole" "pei" "nca" "wcc"],
  :thumbnail "https://i.ytimg.com/vi/P83QVV_Ugww/mqdefault.jpg",
  :duration "00:08:16",
- :date "2012-07-09"}
+ :date "2012-07-09",
+ :youtube-tags ["crokinole" "pei" "nca" "wcc"]}
+
 
 2012 PEI Singles Crokinole Championship Final between George Doughart and Wilfred Smith. Part 1/2. For more from CrokinoleCentre, find full tournament previews and reviews at http://crokinolecentre.blogspot.ca
 

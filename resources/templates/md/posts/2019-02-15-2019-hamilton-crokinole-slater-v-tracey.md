@@ -2,6 +2,9 @@
  :title "2019 Hamilton Crokinole - Slater v Tracey",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/MsnDMGU2OrY/mqdefault.jpg",
+ :duration "00:05:46",
+ :date "2019-02-15",
  :youtube-tags
  ["crokinole"
   "2019"
@@ -9,10 +12,8 @@
   "golden horseshoe"
   "slater"
   "tracey"
-  "nca"],
- :thumbnail "https://i.ytimg.com/vi/MsnDMGU2OrY/mqdefault.jpg",
- :duration "00:05:46",
- :date "2019-02-15"}
+  "nca"]}
+
 
 A round robin match between Justin Slater and Jeremy Tracey at the 2019 Golden Horseshoe Crokinole Tournament in Hamilton, ON.
 

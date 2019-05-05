@@ -2,6 +2,9 @@
  :title "Crokinole 2017 New York Semifinal - Walsh v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/2IQ2VsZChX4/mqdefault.jpg",
+ :duration "00:17:26",
+ :date "2017-11-18",
  :youtube-tags
  ["crokinole"
   "2017"
@@ -12,10 +15,8 @@
   "singles"
   "playoff"
   "nca tour"
-  "nca"],
- :thumbnail "https://i.ytimg.com/vi/2IQ2VsZChX4/mqdefault.jpg",
- :duration "00:17:26",
- :date "2017-11-18"}
+  "nca"]}
+
 
 The semifinal from the 2017 Turtle Island Crokinole Tournament between Nathan Walsh and Ray Beierling in New York.
 

@@ -2,14 +2,15 @@
  :title "2013 Owen Sound Crokinole Final - Gauthier v Slater 2/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags
- ["crokinole nca owen sound gauthier slater singles"
-  "Owen Sound (City%2FTown%2FVillage)"
-  "Board Game (Game Genre)"
-  "Crokinole (Game)"],
  :thumbnail "https://i.ytimg.com/vi/UGGo6zY0dJM/mqdefault.jpg",
  :duration "00:07:32",
- :date "2015-07-27"}
+ :date "2015-07-27",
+ :youtube-tags
+ ["crokinole nca owen sound gauthier slater singles"
+  "Owen Sound (City/Town/Village)"
+  "Board Game (Game Genre)"
+  "Crokinole (Game)"]}
+
 
 The finals of the 2013 Scenic City Crokinole Championship in Owen Sound between Louis Gauthier and Fred Slater. This video is part 2 of 4 of the finals.
 

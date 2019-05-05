@@ -3,6 +3,9 @@
  "Crokinole 2018 World Championship Doubles - Johnston/Johnston v Lea/Smith",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/Y80j2D99yOI/mqdefault.jpg",
+ :duration "00:13:05",
+ :date "2018-07-08",
  :youtube-tags
  ["crokinole"
   "world championship"
@@ -13,10 +16,8 @@
   "smith"
   "tavistock"
   "pei"
-  "2018"],
- :thumbnail "https://i.ytimg.com/vi/Y80j2D99yOI/mqdefault.jpg",
- :duration "00:13:05",
- :date "2018-07-08"}
+  "2018"]}
+
 
 A doubles playoff match of Tom Johnston and Rex Johnston vs Lawson Lea and Wilfred Smith at the 2018 World Crokinole Championship in Tavistock, Ontario.
 

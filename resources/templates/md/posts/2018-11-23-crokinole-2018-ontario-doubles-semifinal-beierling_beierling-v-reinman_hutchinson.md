@@ -3,6 +3,9 @@
  "Crokinole 2018 Ontario Doubles Semifinal - Beierling/Beierling v Reinman/Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/OO-iiTEaz-w/mqdefault.jpg",
+ :duration "00:28:36",
+ :date "2018-11-23",
  :youtube-tags
  ["crokinole"
   "2018"
@@ -13,10 +16,8 @@
   "hutchinson"
   "reinman"
   "nca"
-  "brucefield"],
- :thumbnail "https://i.ytimg.com/vi/OO-iiTEaz-w/mqdefault.jpg",
- :duration "00:28:36",
- :date "2018-11-23"}
+  "brucefield"]}
+
 
 The semifinal of the 2018 Ontario Doubles Crokinole Championship between Connor Reinman and Andrew Hutchinson, and Jason and Ray Beierling in Brucefield, Ontario.
 

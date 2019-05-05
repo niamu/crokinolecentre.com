@@ -3,10 +3,11 @@
  "Crokinole - 2014 Ontario Doubles Championship - Reesor/Miltenburg v Tarle Gauthier 3/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags ["crokinole"],
  :thumbnail "https://i.ytimg.com/vi/JhhDZckQOqo/mqdefault.jpg",
  :duration "00:13:28",
- :date "2016-01-24"}
+ :date "2016-01-24",
+ :youtube-tags ["crokinole"]}
+
 
 The 3v4 page playoff match at the 2014 Ontario Doubles Crokinole Championship in Brucefield, Ontario between Ron Reesor/Eric Miltenburg and Peter Tarle/Louis Gauthier. This is part 3 of 4 of the match.
 

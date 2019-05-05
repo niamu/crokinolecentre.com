@@ -2,10 +2,11 @@
  :title "2013 World Crokinole Championship Promo #2",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags [],
  :thumbnail "https://i.ytimg.com/vi/8v218JvUohQ/mqdefault.jpg",
  :duration "00:05:18",
- :date "2013-05-23"}
+ :date "2013-05-23",
+ :youtube-tags []}
+
 
 I do not own the rights to this audio track.
 

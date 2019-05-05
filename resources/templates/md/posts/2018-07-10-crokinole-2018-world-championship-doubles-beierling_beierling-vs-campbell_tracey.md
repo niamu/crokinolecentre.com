@@ -3,6 +3,9 @@
  "Crokinole 2018 World Championship Doubles - Beierling/Beierling vs Campbell/Tracey",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/trSn-4amWhI/mqdefault.jpg",
+ :duration "00:11:12",
+ :date "2018-07-10",
  :youtube-tags
  ["2018"
   "world championship"
@@ -12,10 +15,8 @@
   "tracey"
   "doubles"
   "playoffs"
-  "tavistock"],
- :thumbnail "https://i.ytimg.com/vi/trSn-4amWhI/mqdefault.jpg",
- :duration "00:11:12",
- :date "2018-07-10"}
+  "tavistock"]}
+
 
 A doubles playoff match of Roy Campbell and Jeremy Tracey vs Jason and Ray Beierling at the 2018 World Crokinole Championship in Tavistock, Ontario.
 

@@ -3,6 +3,9 @@
  "Crokinole 2017 World Championship Doubles - Kuepfer/Walsh v Snyder/Meiier",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/OCMSLVAsgBY/mqdefault.jpg",
+ :duration "00:12:16",
+ :date "2017-08-23",
  :youtube-tags
  ["crokinole"
   "2017"
@@ -16,10 +19,8 @@
   "canada"
   "doubles"
   "playoffs"
-  "top 6"],
- :thumbnail "https://i.ytimg.com/vi/OCMSLVAsgBY/mqdefault.jpg",
- :duration "00:12:16",
- :date "2017-08-23"}
+  "top 6"]}
+
 
 A Final 6 Doubles round robin game between Clare Kuepfer and Nathan Walsh and Tony Snyder and Dave Meijer at the 2017 World Crokinole Championship in Tavistock, Ontario.
 

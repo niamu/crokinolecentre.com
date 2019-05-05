@@ -3,6 +3,9 @@
  "Crokinole 2017 World Championship Doubles - Kappes/Bechtel vs Martin/Phillips",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/hyTZNW9Z6u0/mqdefault.jpg",
+ :duration "00:12:35",
+ :date "2017-08-19",
  :youtube-tags
  ["crokinole"
   "2017"
@@ -16,10 +19,8 @@
   "playoffs"
   "tavistock"
   "ontario"
-  "canada"],
- :thumbnail "https://i.ytimg.com/vi/hyTZNW9Z6u0/mqdefault.jpg",
- :duration "00:12:35",
- :date "2017-08-19"}
+  "canada"]}
+
 
 A Final 6 Doubles round robin game between Ray Kappes and Kevin Bechtel and Justin Martin and Jonathan Phillips at the 2017 World Crokinole Championship in Tavistock, Ontario.
 

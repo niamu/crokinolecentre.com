@@ -2,6 +2,9 @@
  :title "Crokinole 2017 Hamilton Pool A - Slater v Martin",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/VRWDPUDneGw/mqdefault.jpg",
+ :duration "00:08:18",
+ :date "2017-04-26",
  :youtube-tags
  ["crokinole"
   "2017"
@@ -10,10 +13,8 @@
   "tournament"
   "singles"
   "hamilton"
-  "nca"],
- :thumbnail "https://i.ytimg.com/vi/VRWDPUDneGw/mqdefault.jpg",
- :duration "00:08:18",
- :date "2017-04-26"}
+  "nca"]}
+
 
 A Pool A round robin match from the 2017 Golden Horseshoe Crokinole Tournament between Fred Slater and Howard Martin in Hamilton, Ontario.
 

@@ -3,17 +3,12 @@
  "Crokinole 2015 Ontario Doubles Final - Snyder/Conrad v Beierling/Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags
- ["crokinole"
-  "doubles"
-  "2015"
-  "snyder"
-  "conrad"
-  "beierling"
-  "ontario"],
  :thumbnail "https://i.ytimg.com/vi/kf5DzFOD0Pk/mqdefault.jpg",
  :duration "00:31:57",
- :date "2016-05-08"}
+ :date "2016-05-08",
+ :youtube-tags
+ ["crokinole" "doubles" "2015" "snyder" "conrad" "beierling" "ontario"]}
+
 
 The final match of the 2015 Ontario Doubles Crokinole Championship between Justin Slater and Ray Beierling in Brucefield, Ontario.
 

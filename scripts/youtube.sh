@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -euxo pipefail
+
 # Create download-archive from existing files
 grep -riEo "\"display_id\": \"(.*?)\"" resources/youtube-dl | \
     grep -Eo " \"(\w+)\"" | \
@@ -17,3 +19,6 @@ youtube-dl \
 
 # Parse JSON files into Cryogen Markdown posts
 clojure -A:youtube-posts
+
+# Cleanup
+rm scripts/_downloaded.txt

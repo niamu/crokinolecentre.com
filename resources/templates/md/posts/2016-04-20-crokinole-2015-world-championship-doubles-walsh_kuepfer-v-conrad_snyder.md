@@ -3,6 +3,9 @@
  "Crokinole 2015 World Championship - Doubles Walsh/Kuepfer v Conrad/Snyder",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/8-rp81KVpOU/mqdefault.jpg",
+ :duration "00:12:58",
+ :date "2016-04-20",
  :youtube-tags
  ["crokinole"
   "world championship"
@@ -12,10 +15,8 @@
   "snyder"
   "walsh"
   "kuepfer"
-  "tavistock"],
- :thumbnail "https://i.ytimg.com/vi/8-rp81KVpOU/mqdefault.jpg",
- :duration "00:12:58",
- :date "2016-04-20"}
+  "tavistock"]}
+
 
 A top 6 doubles playoff game between Jon Conrad and Tony Snyder, and Clare Kuepfer and Nathan Walsh at the 2015 World Crokinole Championship in Tavistock, Ontario.
 

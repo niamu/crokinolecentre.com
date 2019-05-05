@@ -3,6 +3,9 @@
  "Crokinole 2018 World Championship Doubles - Beierling/Beierling vs Lea/Smith",
  :author "Nathan Walsh",
  :layout :youtube,
+ :thumbnail "https://i.ytimg.com/vi/Ew_htB5Coqc/mqdefault.jpg",
+ :duration "00:13:35",
+ :date "2018-07-18",
  :youtube-tags
  ["crokinole"
   "2018"
@@ -13,10 +16,8 @@
   "tavistock"
   "pei"
   "doubles"
-  "playoffs"],
- :thumbnail "https://i.ytimg.com/vi/Ew_htB5Coqc/mqdefault.jpg",
- :duration "00:13:35",
- :date "2018-07-18"}
+  "playoffs"]}
+
 
 A doubles playoff match of Lawson Lea and Wilfred Smith vs Jason and Ray Beierling at the 2018 World Crokinole Championship in Tavistock, Ontario.
 

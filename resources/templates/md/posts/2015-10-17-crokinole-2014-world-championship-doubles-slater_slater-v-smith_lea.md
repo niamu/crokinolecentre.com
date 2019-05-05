@@ -3,13 +3,14 @@
  "Crokinole 2014 World Championship - Doubles Slater/Slater v Smith/Lea",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags
- ["Crokinole (Game)"
-  "East Zorra-Tavistock (City%2FTown%2FVillage)"
-  "Board Game (Game Genre)"],
  :thumbnail "https://i.ytimg.com/vi/t9YMWAPbilM/mqdefault.jpg",
  :duration "00:12:29",
- :date "2015-10-17"}
+ :date "2015-10-17",
+ :youtube-tags
+ ["Crokinole (Game)"
+  "East Zorra-Tavistock (City/Town/Village)"
+  "Board Game (Game Genre)"]}
+
 
 A top 6 doubles playoff game between Justin and Fred Slater, and Wilfred Smith and Lawson Lea at the 2014 World Crokinole Championship in Tavistock, Ontario.
 

@@ -2,10 +2,11 @@
  :title "2012 PEI Crokinole Doubles Championship 3/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags ["crokinole pei doubles 2012 smith lea kuepfer walsh"],
  :thumbnail "https://i.ytimg.com/vi/bFxuzIX2x9g/mqdefault.jpg",
  :duration "00:09:26",
- :date "2014-09-27"}
+ :date "2014-09-27",
+ :youtube-tags ["crokinole pei doubles 2012 smith lea kuepfer walsh"]}
+
 
 2012 PEI Doubles Crokinole Championship Final between Lawson Lea/Wilfred Smith and Clare Kuepfer/Nathan Walsh - Part 2/4.
 

@@ -2,10 +2,11 @@
  :title "2013 World Crokinole - Beierling v Haymes - Top 4 Playoffs",
  :author "Nathan Walsh",
  :layout :youtube,
- :youtube-tags ["crokinole beierling haymes"],
  :thumbnail "https://i.ytimg.com/vi/QGXJwmz2ffE/mqdefault.jpg",
  :duration "00:01:08",
- :date "2013-07-28"}
+ :date "2013-07-28",
+ :youtube-tags ["crokinole beierling haymes"]}
+
 
 2013 World Crokinole Championship
 
