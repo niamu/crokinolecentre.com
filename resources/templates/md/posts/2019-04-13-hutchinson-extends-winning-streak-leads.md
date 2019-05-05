@@ -5,19 +5,19 @@
  :id "2799147768764743932"
  :blogger-url "https://crokinolecentre.blogspot.com/2019/03/hutchinson-edges-bonnett-in-london-for.html"}
 
-The scariest thing about Andrew Hutchinson’s game is that even with expectations (and hence pressure) rising, the man is continuing to perform. The Waterloo County Classic Crokinole tournament can be a grind that really tests one’s ability to maintain a high level of play, but for Hutchinson the task seemed to be all too reasonable, as he put forth a solid dominating performance that spearheaded the Waterloo Crokinole Club’s second straight team victory.
+The scariest thing about Andrew Hutchinson's game is that even with expectations (and hence pressure) rising, the man is continuing to perform. The Waterloo County Classic Crokinole tournament can be a grind that really tests one's ability to maintain a high level of play, but for Hutchinson the task seemed to be all too reasonable, as he put forth a solid dominating performance that spearheaded the Waterloo Crokinole Club's second straight team victory.
 
 [![People playing crokinole](/images/2019-04-13-hutchinson-extends-winning-streak-leads/IMG\_0115.jpg)](/images/2019-04-13-hutchinson-extends-winning-streak-leads/IMG\_0115.jpg)
 
-7 teams piled into the cozy atmosphere of the Schneider Haus National Historic site in Kitchener for the 27th edition of the greatest team tournament in world. (Yes it’s the only one, so there’s not really a bar to get over. But if there was a bar . . . it would surely be lower than the heights the Schneider Haus event is achieving.)
+7 teams piled into the cozy atmosphere of the Schneider Haus National Historic site in Kitchener for the 27th edition of the greatest team tournament in world. (Yes it's the only one, so there's not really a bar to get over. But if there was a bar . . . it would surely be lower than the heights the Schneider Haus event is achieving.)
 
-The 2019 event saw 3 new teams: Teeswater, Niagara, and the scintillatingly-named “King Street Quartet” that was the moniker for the 4 individuals who are active participants in two different crokinole clubs located on King Street in the Waterloo region. 
+The 2019 event saw 3 new teams: Teeswater, Niagara, and the scintillatingly-named "King Street Quartet" that was the moniker for the 4 individuals who are active participants in two different crokinole clubs located on King Street in the Waterloo region. 
 
 Also in action was team Golden Horseshoe, making their second appearance at the event, team Waterloo making their 10th appearance, and the combined team of London/Scone (London made their debut in 2008, and Scone followed in 2015).
 
 [![People playing crokinole](/images/2019-04-13-hutchinson-extends-winning-streak-leads/IMG\_5620.jpg)](/images/2019-04-13-hutchinson-extends-winning-streak-leads/IMG\_5620.jpg)
 
-Lastly, the St. Jacobs crokinole club rounded out the field, appearing for the 27th straight year, and now becoming the only club to have perfect attendance at the event. That honour used to be shared with the Preston and Varna clubs, whose inaction this year has broken that streak. However, the Preston Club continues to the honoured in the annals of crokinole history, most likely thanks to Wayne Kelly’s best selling crokinole book that, among other things, detailed the club’s long history. The Preston club’s rule set from 1942, as well as a picture of the club from 1953, is displayed prominently at the Schneider Haus museum next to the world’s oldest crokinole board.
+Lastly, the St. Jacobs crokinole club rounded out the field, appearing for the 27th straight year, and now becoming the only club to have perfect attendance at the event. That honour used to be shared with the Preston and Varna clubs, whose inaction this year has broken that streak. However, the Preston Club continues to the honoured in the annals of crokinole history, most likely thanks to Wayne Kelly's best selling crokinole book that, among other things, detailed the club's long history. The Preston club's rule set from 1942, as well as a picture of the club from 1953, is displayed prominently at the Schneider Haus museum next to the world's oldest crokinole board.
 
 [![People playing crokinole](/images/2019-04-13-hutchinson-extends-winning-streak-leads/IMG\_5624.jpg)](/images/2019-04-13-hutchinson-extends-winning-streak-leads/IMG\_5624.jpg)
 
@@ -300,27 +300,27 @@ Status quo was exactly what the Waterloo team was hoping for, and the final resu
 </table>
 </div>
 
-It was a fine showing from the Niagara club, who debuted at the event and took the 4th place spot. The 3rd place finish was the highest ever for team Scone, and also a pretty respectable finish for London, considering London’s 2nd place finish last year featured a team of Justin Slater and Ray Beierling.
+It was a fine showing from the Niagara club, who debuted at the event and took the 4th place spot. The 3rd place finish was the highest ever for team Scone, and also a pretty respectable finish for London, considering London's 2nd place finish last year featured a team of Justin Slater and Ray Beierling.
 
 The individual victory gives Hutchinson his 3rd straight crokinole title in what has been a break-through season for the converted cues player. This string of events from Hutchinson does draw some similarities to that of Nathan Walsh, who scored a break-through season in 2013-2014 in a similar fashion (first NCA singles title in the Fall, a 2nd NCA victory in London, followed by a maiden Schneider Haus victory in April). 
 
-Coming up next for most players around these parts is the Ontario Singles Championship in St. Jacobs. However for Hutchinson, he’ll squeeze in a showing at the US Open Doubles event in Voorheesville, NY, partnering with Jeremy Tracey, where they will also be competing against the current Ontario and World Champion Beierling brothers, along with local American contingent.
+Coming up next for most players around these parts is the Ontario Singles Championship in St. Jacobs. However for Hutchinson, he'll squeeze in a showing at the US Open Doubles event in Voorheesville, NY, partnering with Jeremy Tracey, where they will also be competing against the current Ontario and World Champion Beierling brothers, along with local American contingent.
 
 ### Crokinole Video Highlights
 
-One of the best feelings in competitive crokinole is having Jon Conrad exclaim “nice shot” after you’ve just drilled an unexpected 20. Dwayne Campbell knows that feeling well.
+One of the best feelings in competitive crokinole is having Jon Conrad exclaim "nice shot" after you've just drilled an unexpected 20. Dwayne Campbell knows that feeling well.
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dyZ1pJYUqEQrkK7iMoyF924UNqK5e57XpdnZ1jHYFgvyO1DZKpRLRQgImTNjbSD4luZAZDg6RG7OBYARSIIBEDgPNk-escO1TCRMc7ndXJIy6yW1UW9OvYDTZfh_jJIt4WglD4"></iframe>
 
-Dale Henry said he had lacrosse on his mind throughout the day, but clearly all he’s thinking about here is the 56.7 degree angle at which he needs to strike the near-most left peg to have the maximum possible percentage chance of generating a 20.
+Dale Henry said he had lacrosse on his mind throughout the day, but clearly all he's thinking about here is the 56.7 degree angle at which he needs to strike the near-most left peg to have the maximum possible percentage chance of generating a 20.
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dymMIX13IncgaUdfgEgz6rFNXh5jrqQenuZwQz5rFsJDKtFuGdSwKdAFAN0WDRt6TM8CDNuCDjgoRPtqWDgDlwNxOkHzI1eURsMmhsJ1sL6pXD8qPQedIJ-qyLJHi9D-V1GXw"></iframe>
 
-Bob Jones doesn’t want Andrew Hutchinson to get a ricochet 20. Andrew Hutchinson does not abide.
+Bob Jones doesn't want Andrew Hutchinson to get a ricochet 20. Andrew Hutchinson does not abide.
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dxXNRT29BYIBWL290Fsf-omdTz1ACUlsQXDsbdBZ4safCZN6oq6vFf-2kGe00izYNbZvhMbqs38rnOJEGRsWfTqqcqlhy_f-Jy1NMixNssXpBJa1i667F2sepYaSHGEWpFeHig"></iframe>
 
-Hutchinson makes a ricochet 20 on purpose, then claims this ricochet-peg 20 wasn’t intentional.
+Hutchinson makes a ricochet 20 on purpose, then claims this ricochet-peg 20 wasn't intentional.
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dxUqNG7bZXkTWDqpSMGwraXZMa1Tc4jWA7mBm4DGbYQEQQvGho3MOujTst-EclZrBjiZYX3mSmtU7PidysyvmsS0gBKw51BDG1rXBGsgxC7GpQWiuV3xchNEeTJETifK_R4NOE"></iframe>
 
@@ -328,7 +328,7 @@ Final shots of the round, tied in 20s, future doubles partners show each other h
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dzWLN2ZrgsvPm0vveU-CNTaomo2RuxN-JF9ibgBRBDJA-48Dm1TxDvWSS9GguGUuz_uj8BSWJL0Iu9vWmhcKK9lPZDNyXAKzUmFt3SmCyklVPyoJfNhfoxLC0tvmu6YAITcAdk"></iframe>
 
-Howard Martin: “I see your 10 million, and I raise you 20 million of my own.”
+Howard Martin: "I see your 10 million, and I raise you 20 million of my own."
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dxsoUqr_TB1Ze9PBIJzCuJDVYiEiL61ogti4Up1jipKYb4r59uHk1U6UQ7alzSQAPKas7J2eri76QdDaMSsBXfBYHJbc98eLMdHRbG2wmaYozt1Fa6bjO3PpHw3neUc_-94MQ"></iframe>
 
@@ -336,7 +336,7 @@ Double with a follow-through 20. That was smooth.
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dzRCKKXipS87cztFS_SxBq42fJNbXBZUm68F1dFKsnM-N9CnatrhhKIkuUMXvU7SThlE_OM42b_u-ANQioUDZwhXhb_HVNVgbziOM_D-mmv7UeYovLlRBW4xRKQcNiTVNhz6Nw"></iframe>
 
-Roy Campbell out here willing takeout 20s into existence in a way that science can’t explain.
+Roy Campbell out here willing takeout 20s into existence in a way that science can't explain.
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dzC9jjjVI9Q0_IjpfFI9A4Vv_t0zujZAAbbSiWw-qf657MwpiRWBJxpim7HylbrQCcwv33gmCAWHJTkt_wbEPlZ5wUdXKdUT8KZMWBBKWT0SuUpB0sj8G3EdDEFDtGNJO5YTqc"></iframe>
 
@@ -352,11 +352,11 @@ Walsh sneaks out a tie round against his doubles partner with a 2-peg rebound on
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dzBQtSTZMoBVDVCsUmn9Cw9VOPYP5tksqScunQg4kyp-hRtGINxt2-VeiJJAWlbBhGFyGjTrscF5A50ag_8mVeLvEVND49ztgFeD6U4hHHIS7ja_5fb__JS7zqyVQ-cnU5euL0"></iframe>
 
-Kuepfer: “Hey your shot was good and all, but here’s what a nice shot looks like without holding onto a treasure trove of lucky horseshoes.”
+Kuepfer: "Hey your shot was good and all, but here's what a nice shot looks like without holding onto a treasure trove of lucky horseshoes."
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dwbIwgC-1nN4Zm2TuRSsNJUh5o7NAAfphWEtvGHsOf9NxymMeGIM21Su-iWSnPFLnbp0woOqelTZoYvJfz_CjqLQInXh4bexnun7GnnoJoQZ-ztcoqh1i8Z56rE1JIg6HidxsA"></iframe>
 
-Walsh: “You call that luck? Wait until you see this!”
+Walsh: "You call that luck? Wait until you see this!"
 
 <iframe width="560" height="315" allowfullscreen src="https://www.blogger.com/video.g?token=AD6v5dxwc9ko5H4YdST0l3Upw8yHgOymYRpd88VZZhOM3vGJ6_KZ17sFwG4a6STXKMooluhNPm9pXggQQBxd63UIK1aiUkncw7IYQplKbFpmbxzhJjJe7pvaknYR5nASmn3im4voi7A"></iframe>
 
