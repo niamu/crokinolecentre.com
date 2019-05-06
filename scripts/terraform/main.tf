@@ -1,18 +1,22 @@
-provider "aws" {
-  version = "~> 2.6"
-  region = "ca-central-1"
-}
-
-provider "null" {
-  version = "~> 2.1"
-}
-
 terraform {
   backend "s3" {
     bucket = "tfstate-crokinolecentre.com"
     key    = "aws/ca-central-1/terraform.tfstate"
     region = "ca-central-1"
   }
+}
+
+provider "aws" {
+  version = "~> 2.6"
+  region = "ca-central-1"
+}
+
+provider "archive" {
+  version = "~> 1.2"
+}
+
+provider "null" {
+  version = "~> 2.1"
 }
 
 variable "domain_name" {
@@ -67,8 +71,18 @@ resource "aws_s3_bucket" "main_www" {
   }
 }
 
+data "archive_file" "public" {
+  type        = "zip"
+  source_dir = "${path.module}/../../resources/public"
+  output_path = "${path.module}/public.zip"
+}
+
 resource "null_resource" "s3_sync" {
   depends_on = ["aws_s3_bucket.main"]
+
+  triggers = {
+    src_hash = "${data.archive_file.public.output_sha}"
+  }
 
   provisioner "local-exec" {
     working_dir = "${path.module}/../../resources/public"
