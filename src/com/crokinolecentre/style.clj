@@ -203,7 +203,7 @@
    [:article
     (non-mobile-screen {:flex-grow 1
                         :width :auto})
-    [:.post :.video
+    [:&.post :&.video
      {:width (calc [(units/percent 100) \- (units/px 20)])}]]
    [:.posts :.videos
     {:display :flex
