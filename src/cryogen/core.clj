@@ -4,7 +4,8 @@
    [cryogen-core.plugins :refer [load-plugins]]
    [cryogen-core.compiler :as compiler]
    [cryogen-core.io :as cryogen-io]
-   [net.cgrand.enlive-html :as enlive]))
+   [net.cgrand.enlive-html :as enlive]
+   [com.crokinolecentre.style :as style]))
 
 ;; Ensure archive page has all post metadata passed through
 (intern 'cryogen-core.compiler
@@ -63,6 +64,7 @@
 
 (defn -main
   []
+  (style/-main)
   (load-plugins)
   (compile-assets-timed)
   (System/exit 0))

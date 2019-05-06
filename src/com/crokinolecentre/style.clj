@@ -201,9 +201,10 @@
                                   (string/replace "#" "%23")
                                   (string/replace "\"" "\\\"")))}]]]
    [:article
-    {:width (calc [(units/percent 100) \- (units/px 20)])}
     (non-mobile-screen {:flex-grow 1
-                        :width :auto})]
+                        :width :auto})
+    [:.post :.video
+     {:width (calc [(units/percent 100) \- (units/px 20)])}]]
    [:.posts :.videos
     {:display :flex
      :flex-direction :column
@@ -218,7 +219,7 @@
     (non-mobile-screen {:max-width (units/px 600)})
     [:.content {:overflow :hidden}]
     [:&.preview
-     {:width (units/percent 100)}
+     {:width (calc [(units/percent 100) \- (units/px 20)])}
      (non-mobile-screen {:max-width (units/px 600)})
      [:div.content
       {:height (units/em 14)
@@ -308,7 +309,7 @@
      :justify-content :space-evenly}
     (non-mobile-screen {:max-width (units/px 600)})]
    [:div.sidebar
-    {:width (calc [(units/percent 100) \- (units/px 20)])}
+    {:width (units/percent 100)}
     (non-mobile-screen {:max-width (units/px 300)})]])
 
 (def footer

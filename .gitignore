@@ -6,4 +6,5 @@ pom.xml
 pom.xml.asc
 /target/
 /resources/public/
+resources/templates/themes/crokinolecentre/css/style.css
 scripts/_downloaded.txt
