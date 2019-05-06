@@ -86,6 +86,6 @@ resource "null_resource" "s3_sync" {
 
   provisioner "local-exec" {
     working_dir = "${path.module}/../../resources/public"
-    command     = "aws s3 sync . s3://${aws_s3_bucket.main.bucket} --acl bucket-owner-full-control --acl public-read"
+    command     = "aws s3 sync . s3://${aws_s3_bucket.main.bucket} --size-only --acl bucket-owner-full-control --acl public-read"
   }
 }
