@@ -1,23 +1,38 @@
 # crokinolecentre.com
 
-## Youtube Posts
+## Requirements
+
+- [Clojure](https://clojure.org/guides/getting_started)
+- [Terraform](https://www.terraform.io)
+- [AWS CLI](https://aws.amazon.com/cli/)
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl/)
+
+## Usage
+
+### Youtube Posts
+
+Generate posts for all YouTube videos.
 
 ```sh
 ./scripts/youtube.sh
 ```
 
-## Development
+### Development
 
 ```sh
 clojure -A:dev -m cryogen.dev
 ```
 
-## Build
+### Build
 
 ```sh
 clojure -A:build
 ```
 
-## Deploy
+### Deploy
 
-https://kylewbanks.com/blog/jekyll-blog-on-s3-without-html-extension
+```sh
+terraform init scripts/terraform/
+terraform plan scripts/terraform/
+terraform apply -auto-approve scripts/terraform/
+```

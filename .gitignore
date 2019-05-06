@@ -1,5 +1,6 @@
 .DS_Store
 .cpcache/
+.terraform/
 .nrepl-port
 pom.xml
 pom.xml.asc
