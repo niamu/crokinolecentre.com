@@ -74,7 +74,8 @@
    [:article [:h2 {:font-size (units/percent 200)
                    :margin 0}]]
    [:h3 :h4 {:color (color/lighten (theme 2) 30)
-             :font-weight 300}]
+             :font-weight 300
+             :line-height (units/em 1)}]
    [:h3 {:font-size (units/percent 150)
          :margin [[(units/em 1.5) 0 (units/em 0.5)]]}]
    [:h4 {:font-size (units/percent 120)
@@ -208,7 +209,9 @@
    [:.posts :.videos
     {:display :flex
      :flex-direction :column
-     :flex-wrap :wrap}]
+     :flex-wrap :wrap
+     :width (units/percent 100)}
+    (non-mobile-screen {:width :auto})]
    [:.post :.video
     {:display :inline-block
      :width (units/percent 100)
