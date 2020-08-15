@@ -2,8 +2,8 @@
 {%block subtitle %}: {{post.title}}{% endblock %}
 {% block content %}
 <article class="video element">
-    <div class="video-wrapper" style="background-image:url({{post.thumbnail}})">
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/{{post.id}}" allowfullscreen"></iframe>
+    <div class="video-wrapper" style="background-image:url(/images/thumbnails/{{post.id}}.jpg)">
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/{{post.id}}" allowfullscreen></iframe>
     </div>
     {% include "/html/post-content.html" %}
     <div class="prev-next">

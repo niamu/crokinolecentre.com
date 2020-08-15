@@ -20,7 +20,7 @@
 {% for post in videos %}
 
     <div class="video preview">
-        <a href="{{post.uri}}"><img src="{{post.thumbnail}}" alt="{{post.title}}"/></a>
+        <a href="{{post.uri}}"><img src="/images/thumbnails/{{post.id}}.jpg" alt="{{post.title}}"/></a>
         <div class="element">
             <h2><a href="{{post.uri}}">{{post.title}}</a></h2>
             <span class="date">{{post.date|date:longDate}}</span>

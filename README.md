@@ -6,6 +6,7 @@
 - [Terraform](https://www.terraform.io)
 - [AWS CLI](https://aws.amazon.com/cli/)
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl/)
+- [ffmpeg](https://ffmpeg.org)
 
 ## Usage
 

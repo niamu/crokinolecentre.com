@@ -37,7 +37,7 @@
         {% for post in latest-posts %}
         <div class='{% ifequal post.layout "youtube.html" %}video{% else %}post{% endifequal %} preview'>
             {% ifequal post.layout "youtube.html" %}
-            <a href="{{post.uri}}"><img src="{{post.thumbnail}}" alt="{{post.title}}"/></a>
+            <a href="{{post.uri}}"><img src="/images/thumbnails/{{post.id}}.jpg" alt="{{post.title}}"/></a>
             {% endifequal %}
             <div class="element">
                 <h2><a href="{{post.uri}}">{{post.title}}</a></h2>

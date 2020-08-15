@@ -22,35 +22,56 @@
   [file]
   (-> (json/read (io/reader file) :key-fn key-fn)
       (select-keys [:id :title :thumbnail :tags :duration :upload-date
-                    :uploader :uploader-url :channel-url :description])
+                    :uploader :uploader-url :channel-url :description
+                    :thumbnails])
       (update :upload-date
               #(string/replace % #"^([0-9]{4})([0-9]{2})" "$1-$2-"))
       (update :duration #(format-duration %))
-      (update :thumbnail #(-> (string/replace % #"maxresdefault" "mqdefault")
-                              (string/replace #"hqdefault" "mqdefault")))
       (assoc :filename (-> (.getName file)
-                           (string/replace ".info.json" ".md")
-                           string/lower-case
-                           (string/replace " " "-")
-                           (string/replace "---" "-")
-                           (string/replace #"^([0-9]{4})([0-9]{2})" "$1-$2-"))
+                           (string/replace ".info.json" "")))
+      (assoc :slug (-> (.getName file)
+                       (string/replace ".info.json" "")
+                       string/lower-case
+                       (string/replace " " "-")
+                       (string/replace "---" "-")
+                       (string/replace #"^([0-9]{4})([0-9]{2})" "$1-$2-"))
              :author "Nathan Walsh"
              :layout :youtube)))
 
-(defn write-post
+(defn write-post!
   [post]
-  (spit (str "resources/templates/md/posts/" (:filename post))
-        (str (-> (select-keys post [:id :title :author :layout :tags
-                                    :thumbnail :duration])
+  (spit (str "resources/templates/md/posts/" (:slug post) ".md")
+        (str (-> (select-keys post [:id :title :author :layout :tags :duration])
                  (dissoc post :upload-date :tags)
-                 (assoc :date (:upload-date post) :youtube-tags (:tags post))
+                 (assoc :date (:upload-date post)
+                        :youtube-tags (:tags post))
                  pprint/pprint with-out-str)
              "\n\n"
-             (string/replace (:description post) #"(^|[^\n])\n(?!\n)" "\n\n")
-             "\n")))
+             (string/replace (:description post)
+                             #"(^|[^\n])\n(?!\n)" "\n\n")
+             "\n"))
+  post)
+
+(defn write-thumbnail!
+  [post]
+  (.mkdir (io/file "resources/templates/images/thumbnails/"))
+  (let [thumbnail (->> (filter (fn [thumbnail]
+                                 (string/includes? (:url thumbnail)
+                                                   "hqdefault.jpg"))
+                               (:thumbnails post))
+                       (sort-by :width)
+                       last
+                       :url)]
+    (with-open [in (io/input-stream thumbnail)
+                out (io/output-stream (str "resources/templates/images/"
+                                           "thumbnails/"
+                                           (:id post) ".jpg.old"))]
+      (io/copy in out)))
+  post)
 
 (defn -main
   []
   (doseq [post (->> (file-seq (io/file "resources/youtube-dl"))
-                    (filter #(and (.isFile %) (string/ends-with? % ".info.json"))))]
-    ((comp write-post parse-post) post)))
+                    (filter #(and (.isFile %)
+                                  (string/ends-with? % ".info.json"))))]
+    ((comp write-thumbnail! write-post! parse-post) post)))
