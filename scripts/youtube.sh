@@ -2,6 +2,8 @@
 
 set -euxo pipefail
 
+mkdir -p resources/templates/themes/crokinolecentre/{css,js}/
+
 # Create download-archive from existing files
 touch scripts/_downloaded.txt
 grep -riEo "\"display_id\": \"(.*?)\"" resources/youtube-dl | \
