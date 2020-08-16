@@ -2,7 +2,6 @@
  :title "Crokinole 2017 London Semifinal - Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/jCvR4fiilsg/mqdefault.jpg",
  :duration "00:11:28",
  :date "2017-05-10",
  :youtube-tags

@@ -3,7 +3,6 @@
  "Crokinole - Beierling vs Cook - 2012 World Crokinole Championships",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Jj9sgLacNLU/mqdefault.jpg",
  :duration "00:06:27",
  :date "2012-08-11",
  :youtube-tags

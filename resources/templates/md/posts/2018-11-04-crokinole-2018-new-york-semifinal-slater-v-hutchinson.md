@@ -2,7 +2,6 @@
  :title "Crokinole 2018 New York Semifinal - Slater v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/wNkVBeT14Es/mqdefault.jpg",
  :duration "00:12:11",
  :date "2018-11-04",
  :youtube-tags

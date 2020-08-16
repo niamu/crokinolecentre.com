@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Belleville Semifinal - Tracey v Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/QwHweATzRd4/mqdefault.jpg",
  :duration "00:16:59",
  :date "2017-12-01",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "Crokinole - 2015 Hamilton Final - Beierling v Walsh 2/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/QNrqWdHSQ1M/mqdefault.jpg",
  :duration "00:07:18",
  :date "2016-01-13",
  :youtube-tags []}

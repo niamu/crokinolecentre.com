@@ -2,7 +2,6 @@
  :title "Crokinole 2016 London Semifinal - Leitch v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/_aFgXXLoZR0/mqdefault.jpg",
  :duration "00:13:00",
  :date "2017-02-25",
  :youtube-tags

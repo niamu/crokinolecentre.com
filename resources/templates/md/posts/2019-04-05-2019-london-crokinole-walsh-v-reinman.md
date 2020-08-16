@@ -2,7 +2,6 @@
  :title "2019 London Crokinole - Walsh v Reinman",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/idU18KBKFO4/mqdefault.jpg",
  :duration "00:07:40",
  :date "2019-04-05",
  :youtube-tags ["2019" "crokinole" "london" "nca" "walsh" "reinman"]}

@@ -3,7 +3,6 @@
  "Crokinole 2015 World Championship - Doubles Slater/Slater v Conrad/Snyder",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/9KPLWwc5Wbc/mqdefault.jpg",
  :duration "00:13:15",
  :date "2016-04-11",
  :youtube-tags

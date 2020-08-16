@@ -2,7 +2,6 @@
  :title "Crokinole 2013 Belleville Final - Cook vs Walsh 1/2",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/8G1_hYR2kKg/mqdefault.jpg",
  :duration "00:08:19",
  :date "2014-10-04",
  :youtube-tags ["crokinole belleville nca 2013 cook walsh"]}

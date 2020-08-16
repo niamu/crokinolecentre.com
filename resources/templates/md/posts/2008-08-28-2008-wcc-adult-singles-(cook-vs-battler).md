@@ -2,7 +2,6 @@
  :title "2008 WCC - Adult Singles (Cook vs Battler)",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/ulxr8fjzAlM/mqdefault.jpg",
  :duration "00:08:06",
  :date "2008-08-28",
  :youtube-tags

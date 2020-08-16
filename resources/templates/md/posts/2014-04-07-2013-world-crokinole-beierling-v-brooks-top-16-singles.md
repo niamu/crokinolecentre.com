@@ -2,7 +2,6 @@
  :title "2013 World Crokinole - Beierling v Brooks - Top 16 Singles",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/IHlbRZu1caw/mqdefault.jpg",
  :duration "00:06:00",
  :date "2014-04-07",
  :youtube-tags

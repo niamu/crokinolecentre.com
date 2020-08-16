@@ -3,7 +3,6 @@
  "Crokinole 2014 World Championship Singles - Top 4 Cook v Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/lRV5iEdVmjw/mqdefault.jpg",
  :duration "00:06:13",
  :date "2015-11-06",
  :youtube-tags

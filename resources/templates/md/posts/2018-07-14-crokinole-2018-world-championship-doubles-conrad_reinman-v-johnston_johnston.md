@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship Doubles - Conrad/Reinman v Johnston/Johnston",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/QgjOYzgapyg/mqdefault.jpg",
  :duration "00:12:39",
  :date "2018-07-14",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "2018 World Crokinole Championship - Top 4 - Slater v Conrad",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/JNFzfq3XMy8/mqdefault.jpg",
  :duration "00:07:17",
  :date "2018-06-15",
  :youtube-tags

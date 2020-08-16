@@ -2,7 +2,6 @@
  :title "2008 WCC - Finger Doubles Playoffs",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/4rIcHiQiNR4/mqdefault.jpg",
  :duration "00:04:43",
  :date "2008-08-28",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "2009 World Crokinole Championships - Beierling vs Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/BhGAMNf1ZoY/mqdefault.jpg",
  :duration "00:06:45",
  :date "2009-08-29",
  :youtube-tags

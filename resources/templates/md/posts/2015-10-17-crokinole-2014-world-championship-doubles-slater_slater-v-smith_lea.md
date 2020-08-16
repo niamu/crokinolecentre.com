@@ -3,7 +3,6 @@
  "Crokinole 2014 World Championship - Doubles Slater/Slater v Smith/Lea",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/t9YMWAPbilM/mqdefault.jpg",
  :duration "00:12:29",
  :date "2015-10-17",
  :youtube-tags

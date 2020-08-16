@@ -3,7 +3,6 @@
  "Crokinole 2017 World Championship Doubles - Kappes/Bechtel vs Martin/Phillips",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/hyTZNW9Z6u0/mqdefault.jpg",
  :duration "00:12:35",
  :date "2017-08-19",
  :youtube-tags

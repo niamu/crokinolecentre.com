@@ -2,7 +2,6 @@
  :title "2019 Hamilton Crokinole - Walsh v J Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/imyXn1NUP4A/mqdefault.jpg",
  :duration "00:06:17",
  :date "2019-02-01",
  :youtube-tags

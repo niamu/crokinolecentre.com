@@ -2,7 +2,6 @@
  :title "2019 London Crokinole Semifinal - Hutchinson v Tracey",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/NrbYrORyrEI/mqdefault.jpg",
  :duration "00:10:04",
  :date "2019-04-12",
  :youtube-tags []}

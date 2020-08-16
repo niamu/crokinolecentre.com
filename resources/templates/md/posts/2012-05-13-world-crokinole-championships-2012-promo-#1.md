@@ -2,7 +2,6 @@
  :title "World Crokinole Championships - 2012 Promo #1",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/CdDBGHXUy0A/mqdefault.jpg",
  :duration "00:00:49",
  :date "2012-05-13",
  :youtube-tags ["crokinole" "world" "championships" "2012" "tavistock"]}

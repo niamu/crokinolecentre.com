@@ -2,7 +2,6 @@
  :title "Crokinole 2016 Ontario Singles Final - Slater v Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/FzuxpC_2o04/mqdefault.jpg",
  :duration "00:21:56",
  :date "2016-05-21",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "Crokinole - 2014 Belleville Final - Slater v Walsh 2/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/GN3T9IrPbKE/mqdefault.jpg",
  :duration "00:06:27",
  :date "2015-12-04",
  :youtube-tags

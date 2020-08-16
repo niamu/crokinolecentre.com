@@ -3,7 +3,6 @@
  "Crokinole 2017 World Championship Doubles - Beierling/Beierling v Snyder/Meijer",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/ZRth359HiEg/mqdefault.jpg",
  :duration "00:12:06",
  :date "2017-08-08",
  :youtube-tags

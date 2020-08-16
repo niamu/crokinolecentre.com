@@ -2,7 +2,6 @@
  :title "2019 Hamilton Crokinole Semifinal - Tracey v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/LZulDs3yPOU/mqdefault.jpg",
  :duration "00:13:11",
  :date "2019-03-15",
  :youtube-tags

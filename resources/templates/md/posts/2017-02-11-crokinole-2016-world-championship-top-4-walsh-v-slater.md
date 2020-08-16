@@ -2,7 +2,6 @@
  :title "Crokinole 2016 World Championship - Top 4 Walsh v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/B0spVmyRrlM/mqdefault.jpg",
  :duration "00:07:18",
  :date "2017-02-11",
  :youtube-tags

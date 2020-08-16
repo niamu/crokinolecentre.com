@@ -2,7 +2,6 @@
  :title "Crokinole 2018 Owen Sound - Top 4 - Beierling v Bonnett",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/BYqAGiMOX1c/mqdefault.jpg",
  :duration "00:08:40",
  :date "2019-01-04",
  :youtube-tags

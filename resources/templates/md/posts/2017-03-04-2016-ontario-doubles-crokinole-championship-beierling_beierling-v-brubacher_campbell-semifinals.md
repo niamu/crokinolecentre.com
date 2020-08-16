@@ -3,7 +3,6 @@
  "2016 Ontario Doubles Crokinole Championship - Beierling/Beierling v Brubacher/Campbell Semifinals",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/HySmtIM5wIk/mqdefault.jpg",
  :duration "00:27:08",
  :date "2017-03-04",
  :youtube-tags

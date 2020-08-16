@@ -2,7 +2,6 @@
  :title "Crokinole - 2013 Owen Sound Semifinal - Gauthier v Walsh 2/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/paFMGH1qxZE/mqdefault.jpg",
  :duration "00:07:02",
  :date "2015-11-21",
  :youtube-tags

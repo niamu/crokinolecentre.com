@@ -2,7 +2,6 @@
  :title "2016 Owen Sound Crokinole Final - Conrad v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/ss-ba-cVCbs/mqdefault.jpg",
  :duration "00:23:11",
  :date "2016-12-29",
  :youtube-tags

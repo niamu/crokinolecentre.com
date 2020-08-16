@@ -2,7 +2,6 @@
  :title "2019 Hamilton Crokinole Final - Slater v Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/RDxxdsnLFRU/mqdefault.jpg",
  :duration "00:12:29",
  :date "2019-03-29",
  :youtube-tags

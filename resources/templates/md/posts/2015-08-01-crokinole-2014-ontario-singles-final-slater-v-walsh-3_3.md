@@ -2,7 +2,6 @@
  :title "Crokinole - 2014 Ontario Singles Final - Slater v Walsh 3/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/1iZncnlUArQ/mqdefault.jpg",
  :duration "00:05:46",
  :date "2015-08-01",
  :youtube-tags

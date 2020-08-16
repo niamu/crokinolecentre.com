@@ -2,7 +2,6 @@
  :title "Crokinole - European Singes 3rd Place - Létay v Costermans",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/9Y-Af6KBSoc/mqdefault.jpg",
  :duration "00:18:06",
  :date "2018-05-17",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "2018 World Crokinole Championship Highlights",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/twcg7YKUIpo/mqdefault.jpg",
  :duration "00:03:27",
  :date "2018-06-07",
  :youtube-tags

@@ -3,7 +3,6 @@
  "Crokinole 2018 Ontario Doubles Final - Beierling/Beierling v Slater/Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/teQm3RDaAEE/mqdefault.jpg",
  :duration "00:43:35",
  :date "2018-11-30",
  :youtube-tags

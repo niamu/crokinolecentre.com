@@ -2,7 +2,6 @@
  :title "Crokinole 2016 Belleville Final - Slater v Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/leZvDQP3d4k/mqdefault.jpg",
  :duration "00:12:41",
  :date "2017-03-08",
  :youtube-tags

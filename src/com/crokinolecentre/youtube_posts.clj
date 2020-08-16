@@ -55,18 +55,11 @@
 (defn write-thumbnail!
   [post]
   (.mkdir (io/file "resources/templates/images/thumbnails/"))
-  (let [thumbnail (->> (filter (fn [thumbnail]
-                                 (string/includes? (:url thumbnail)
-                                                   "hqdefault.jpg"))
-                               (:thumbnails post))
-                       (sort-by :width)
-                       last
-                       :url)]
-    (with-open [in (io/input-stream thumbnail)
-                out (io/output-stream (str "resources/templates/images/"
-                                           "thumbnails/"
-                                           (:id post) ".jpg.old"))]
-      (io/copy in out)))
+  (with-open [in (io/input-stream (:thumbnail post))
+              out (io/output-stream (str "resources/templates/images/"
+                                         "thumbnails/"
+                                         (:id post) ".jpg.old"))]
+    (io/copy in out))
   post)
 
 (defn -main

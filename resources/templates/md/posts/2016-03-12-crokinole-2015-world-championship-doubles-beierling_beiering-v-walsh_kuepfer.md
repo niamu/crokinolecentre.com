@@ -3,7 +3,6 @@
  "Crokinole 2015 World Championship - Doubles Beierling/Beiering v Walsh/Kuepfer",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/36bLRxNfVaM/mqdefault.jpg",
  :duration "00:11:26",
  :date "2016-03-12",
  :youtube-tags

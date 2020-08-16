@@ -2,7 +2,6 @@
  :title "2009 World Crokinole Championships - Cook vs Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/tCKLp161m3g/mqdefault.jpg",
  :duration "00:08:32",
  :date "2009-08-29",
  :youtube-tags

@@ -3,7 +3,6 @@
  "Ontario Doubles Crokinole 2013 - Haymes/Haymes v Beierling/Beierling 2/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/rS0pU2Zw57Y/mqdefault.jpg",
  :duration "00:08:36",
  :date "2015-07-11",
  :youtube-tags

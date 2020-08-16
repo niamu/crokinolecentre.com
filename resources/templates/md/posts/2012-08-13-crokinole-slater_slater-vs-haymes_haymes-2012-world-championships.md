@@ -3,7 +3,6 @@
  "Crokinole - Slater/Slater vs Haymes/Haymes - 2012 World Championships",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/bE-sgNDAiwo/mqdefault.jpg",
  :duration "00:11:07",
  :date "2012-08-13",
  :youtube-tags

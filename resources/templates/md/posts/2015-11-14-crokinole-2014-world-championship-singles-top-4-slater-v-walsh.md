@@ -3,7 +3,6 @@
  "Crokinole 2014 World Championship Singles - Top 4 Slater v Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/PMOV2YAo6tY/mqdefault.jpg",
  :duration "00:06:31",
  :date "2015-11-14",
  :youtube-tags

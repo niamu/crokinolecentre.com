@@ -2,7 +2,6 @@
  :title "Crokinole - Slater v Cook - 2012 World Championships",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/oj8eFolaSBc/mqdefault.jpg",
  :duration "00:06:56",
  :date "2012-08-12",
  :youtube-tags

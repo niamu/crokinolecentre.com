@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship Doubles - Beierling/Beierling vs Campbell/Tracey",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/trSn-4amWhI/mqdefault.jpg",
  :duration "00:11:12",
  :date "2018-07-10",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "2012 PEI Crokinole Doubles Championship 2/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/nPvL6aZBE1k/mqdefault.jpg",
  :duration "00:09:28",
  :date "2014-09-27",
  :youtube-tags ["crokinole pei doubles 2012 smith lea kuepfer walsh"]}

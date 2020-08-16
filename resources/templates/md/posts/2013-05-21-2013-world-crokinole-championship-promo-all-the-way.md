@@ -2,7 +2,6 @@
  :title "2013 World Crokinole Championship Promo - All the Way",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/eN7K9qJnr5o/mqdefault.jpg",
  :duration "00:02:58",
  :date "2013-05-21",
  :youtube-tags []}

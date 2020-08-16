@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Hamilton Semifinal - Walsh v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/k6Pw0G1qXBU/mqdefault.jpg",
  :duration "00:13:07",
  :date "2017-05-02",
  :youtube-tags

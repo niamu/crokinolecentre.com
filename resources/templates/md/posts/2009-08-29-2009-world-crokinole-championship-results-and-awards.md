@@ -2,7 +2,6 @@
  :title "2009 World Crokinole Championship - Results and Awards",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/d2uH9a3a-LM/mqdefault.jpg",
  :duration "00:04:58",
  :date "2009-08-29",
  :youtube-tags

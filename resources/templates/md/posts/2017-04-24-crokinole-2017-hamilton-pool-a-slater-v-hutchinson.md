@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Hamilton Pool A - Slater v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/89PfMethycc/mqdefault.jpg",
  :duration "00:06:25",
  :date "2017-04-24",
  :youtube-tags

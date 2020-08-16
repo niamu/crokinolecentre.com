@@ -2,7 +2,6 @@
  :title "Crokinole 2018 Hamilton Semifinal - Beierling v Conrad",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/GRvJJKjtXWw/mqdefault.jpg",
  :duration "00:25:48",
  :date "2018-02-23",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "Crokinole - European Singes Final - Létay v Berzlánovich",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/VwB4SAgVeF0/mqdefault.jpg",
  :duration "00:12:17",
  :date "2018-05-20",
  :youtube-tags

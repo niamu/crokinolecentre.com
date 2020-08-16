@@ -3,7 +3,6 @@
  "Crokinole - Coulthard/Coulthard v Johnston/Johnston - 2012 World Championships",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/_23vGNCT0_Q/mqdefault.jpg",
  :duration "00:07:47",
  :date "2012-08-12",
  :youtube-tags ["2012" "world" "crokinole" "championships" "doubles"]}

@@ -2,7 +2,6 @@
  :title "Crokinole 2016 World Championship - Top 4 Beierling v Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Nf_mWu0g9KM/mqdefault.jpg",
  :duration "00:08:05",
  :date "2017-02-18",
  :youtube-tags

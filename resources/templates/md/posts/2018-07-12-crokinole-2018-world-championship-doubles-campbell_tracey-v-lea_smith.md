@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship Doubles - Campbell/Tracey v Lea/Smith",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/ZyPGrWZ2prM/mqdefault.jpg",
  :duration "00:13:13",
  :date "2018-07-12",
  :youtube-tags

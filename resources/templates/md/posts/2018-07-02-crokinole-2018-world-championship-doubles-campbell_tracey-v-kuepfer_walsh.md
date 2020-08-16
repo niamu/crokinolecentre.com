@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship Doubles - Campbell/Tracey v Kuepfer/Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/AkXePzrkjl4/mqdefault.jpg",
  :duration "00:13:07",
  :date "2018-07-02",
  :youtube-tags

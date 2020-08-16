@@ -3,7 +3,6 @@
  "Crokinole - European Doubles Final - Berzlánovich/Berzlánovich v Costermans/Vrints",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/goQPbZ_DM08/mqdefault.jpg",
  :duration "00:33:55",
  :date "2018-05-14",
  :youtube-tags

@@ -3,7 +3,6 @@
  "Crokinole 2014 World Championship - Doubles Brown/Brown v Mader/Howie",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/1y8vTtJq0Rc/mqdefault.jpg",
  :duration "00:12:39",
  :date "2015-09-15",
  :youtube-tags

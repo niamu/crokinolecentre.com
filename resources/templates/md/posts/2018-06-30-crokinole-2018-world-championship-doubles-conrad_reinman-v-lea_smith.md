@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship Doubles - Conrad/Reinman v Lea/Smith",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/aqKwFn99DvE/mqdefault.jpg",
  :duration "00:11:33",
  :date "2018-06-30",
  :youtube-tags

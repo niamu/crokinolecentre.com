@@ -3,7 +3,6 @@
  "Crokinole 2015 World Championship - Top 4 Beierling v Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/_zHkdb8kvhU/mqdefault.jpg",
  :duration "00:08:16",
  :date "2016-05-23",
  :youtube-tags

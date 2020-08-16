@@ -2,7 +2,6 @@
  :title "2014 Hamilton Crokinole Finals - Beierling v Haymes 3/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/jtaLiKnTcdI/mqdefault.jpg",
  :duration "00:09:35",
  :date "2014-11-23",
  :youtube-tags ["crokinole hamilton 2014 beierling haymes finals"]}

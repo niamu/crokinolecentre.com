@@ -2,7 +2,6 @@
  :title "Crokinole 2015 Ontario Singles Final - Slater v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/xtZcyWl1Zas/mqdefault.jpg",
  :duration "00:17:57",
  :date "2016-04-28",
  :youtube-tags

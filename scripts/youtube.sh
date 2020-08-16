@@ -6,7 +6,7 @@ mkdir -p resources/templates/themes/crokinolecentre/{css,js}/
 
 # Create download-archive from existing files
 touch scripts/_downloaded.txt
-grep -riEo "\"display_id\": \"(.*?)\"" resources/youtube-dl | \
+grep -riEo "{:id \"(.*?)\"" resources/templates/md/posts | \
     grep -Eo " \"(\w+)\"" | \
     sed -E 's/ \"(.*)\"/youtube \1/' > scripts/_downloaded.txt
 
@@ -23,6 +23,7 @@ youtube-dl \
 clojure -A:youtube-posts
 
 rm scripts/_downloaded.txt
+rm resources/youtube-dl/*
 
 for i in resources/templates/images/thumbnails/*.jpg.old
 do

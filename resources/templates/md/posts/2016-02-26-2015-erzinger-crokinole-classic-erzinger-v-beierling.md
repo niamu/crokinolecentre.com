@@ -2,7 +2,6 @@
  :title "2015 Erzinger Crokinole Classic - Erzinger v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/0UL5ZdhlFH8/mqdefault.jpg",
  :duration "00:06:04",
  :date "2016-02-26",
  :youtube-tags ["crokinole" "2015" "erzinger" "beierling" "hamilton"]}

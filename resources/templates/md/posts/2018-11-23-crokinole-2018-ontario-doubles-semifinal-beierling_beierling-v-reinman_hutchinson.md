@@ -3,7 +3,6 @@
  "Crokinole 2018 Ontario Doubles Semifinal - Beierling/Beierling v Reinman/Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/OO-iiTEaz-w/mqdefault.jpg",
  :duration "00:28:36",
  :date "2018-11-23",
  :youtube-tags

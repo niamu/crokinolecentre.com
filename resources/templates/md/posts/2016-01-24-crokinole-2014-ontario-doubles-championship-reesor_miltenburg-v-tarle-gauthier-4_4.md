@@ -3,7 +3,6 @@
  "Crokinole - 2014 Ontario Doubles Championship - Reesor/Miltenburg v Tarle Gauthier 4/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/ILnbv0RbTaQ/mqdefault.jpg",
  :duration "00:09:05",
  :date "2016-01-24",
  :youtube-tags ["crokinole"]}

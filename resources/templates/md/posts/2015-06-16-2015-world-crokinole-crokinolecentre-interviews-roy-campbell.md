@@ -3,7 +3,6 @@
  "2015 World Crokinole - CrokinoleCentre Interviews Roy Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/0f68pj0knmk/mqdefault.jpg",
  :duration "00:02:08",
  :date "2015-06-16",
  :youtube-tags

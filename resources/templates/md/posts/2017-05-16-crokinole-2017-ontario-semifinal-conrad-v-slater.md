@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Ontario Semifinal - Conrad v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/9tT38C4xFhc/mqdefault.jpg",
  :duration "00:10:55",
  :date "2017-05-16",
  :youtube-tags

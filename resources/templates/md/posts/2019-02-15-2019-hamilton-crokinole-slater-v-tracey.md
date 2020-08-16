@@ -2,7 +2,6 @@
  :title "2019 Hamilton Crokinole - Slater v Tracey",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/MsnDMGU2OrY/mqdefault.jpg",
  :duration "00:05:46",
  :date "2019-02-15",
  :youtube-tags

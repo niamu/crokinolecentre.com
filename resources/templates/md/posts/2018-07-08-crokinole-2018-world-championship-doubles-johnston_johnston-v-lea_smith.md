@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship Doubles - Johnston/Johnston v Lea/Smith",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Y80j2D99yOI/mqdefault.jpg",
  :duration "00:13:05",
  :date "2018-07-08",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "Crokinole 2017 London Final - Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/ZuJuDEsjZBI/mqdefault.jpg",
  :duration "00:22:23",
  :date "2017-05-14",
  :youtube-tags

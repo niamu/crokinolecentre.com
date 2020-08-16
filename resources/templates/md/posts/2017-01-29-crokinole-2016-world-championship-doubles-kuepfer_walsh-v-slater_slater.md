@@ -3,7 +3,6 @@
  "Crokinole 2016 World Championship - Doubles Kuepfer/Walsh v Slater/Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/yTSOxowW7-8/mqdefault.jpg",
  :duration "00:13:27",
  :date "2017-01-29",
  :youtube-tags

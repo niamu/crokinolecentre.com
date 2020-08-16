@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Hamilton Pool A - Beierling v Conrad",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/9VG8EBzb6ow/mqdefault.jpg",
  :duration "00:06:16",
  :date "2017-04-22",
  :youtube-tags

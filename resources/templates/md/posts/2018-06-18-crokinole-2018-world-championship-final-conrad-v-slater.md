@@ -2,7 +2,6 @@
  :title "Crokinole 2018 World Championship Final - Conrad v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/TSx21GxYNAU/mqdefault.jpg",
  :duration "00:34:27",
  :date "2018-06-18",
  :youtube-tags

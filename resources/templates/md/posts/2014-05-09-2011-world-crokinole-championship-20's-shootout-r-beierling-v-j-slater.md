@@ -3,7 +3,6 @@
  "2011 World Crokinole Championship - 20's Shootout - R Beierling v J Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/lNazNYWyNUU/mqdefault.jpg",
  :duration "00:01:52",
  :date "2014-05-09",
  :youtube-tags

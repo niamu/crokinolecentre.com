@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Belleville Final - Tracey v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/c_8dlovt984/mqdefault.jpg",
  :duration "00:14:01",
  :date "2017-12-08",
  :youtube-tags

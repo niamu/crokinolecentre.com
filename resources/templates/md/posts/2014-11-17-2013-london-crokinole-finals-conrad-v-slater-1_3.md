@@ -2,7 +2,6 @@
  :title "2013 London Crokinole Finals - Conrad v Slater - 1/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/y2fJKMvLgAY/mqdefault.jpg",
  :duration "00:08:17",
  :date "2014-11-17",
  :youtube-tags ["crokinole london 2013 final conrad slater singles"]}

@@ -2,7 +2,6 @@
  :title "Crokinole 2017 World Championship Top 4 - Conrad v Bonnett",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/yqiQ7-C-4ik/mqdefault.jpg",
  :duration "00:08:43",
  :date "2017-07-10",
  :youtube-tags

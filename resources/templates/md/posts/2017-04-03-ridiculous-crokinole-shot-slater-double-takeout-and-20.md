@@ -2,7 +2,6 @@
  :title "Ridiculous Crokinole Shot - Slater Double Takeout and 20",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/LKpWW1tOM94/mqdefault.jpg",
  :duration "00:00:46",
  :date "2017-04-03",
  :youtube-tags ["crokinole" "slater" "london" "2017"]}

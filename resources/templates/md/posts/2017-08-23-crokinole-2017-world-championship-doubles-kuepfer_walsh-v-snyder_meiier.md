@@ -3,7 +3,6 @@
  "Crokinole 2017 World Championship Doubles - Kuepfer/Walsh v Snyder/Meiier",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/OCMSLVAsgBY/mqdefault.jpg",
  :duration "00:12:16",
  :date "2017-08-23",
  :youtube-tags

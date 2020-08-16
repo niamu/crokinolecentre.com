@@ -2,7 +2,6 @@
  :title "Crokinole - 2012 London Final 1/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/C05ii-GMIk4/mqdefault.jpg",
  :duration "00:06:29",
  :date "2012-05-02",
  :youtube-tags ["crokinole" "london" "2012" "beierling"]}

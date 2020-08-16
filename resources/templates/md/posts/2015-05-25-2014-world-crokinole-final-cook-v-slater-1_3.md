@@ -2,7 +2,6 @@
  :title "2014 World Crokinole Final - Cook v Slater 1/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/K8airvM-m_w/mqdefault.jpg",
  :duration "00:06:54",
  :date "2015-05-25",
  :youtube-tags

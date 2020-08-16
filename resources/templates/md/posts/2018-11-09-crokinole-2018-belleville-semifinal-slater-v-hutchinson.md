@@ -2,7 +2,6 @@
  :title "Crokinole 2018 Belleville Semifinal - Slater v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/QbOCA7cc6qI/mqdefault.jpg",
  :duration "00:27:41",
  :date "2018-11-09",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "Crokinole 2015 World Championship - Top 4 Bonnett v Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/4nhdH2cBxlQ/mqdefault.jpg",
  :duration "00:09:01",
  :date "2016-05-23",
  :youtube-tags

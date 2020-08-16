@@ -2,7 +2,6 @@
  :title "Crokinole 2016 Hamilton Semifinal - Beierling v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/wTufOH_Eu1E/mqdefault.jpg",
  :duration "00:21:09",
  :date "2016-12-04",
  :youtube-tags

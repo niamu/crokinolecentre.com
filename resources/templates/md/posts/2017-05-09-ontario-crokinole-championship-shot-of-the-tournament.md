@@ -2,7 +2,6 @@
  :title "Ontario Crokinole Championship - Shot of the Tournament",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/2TdtKswnXsI/mqdefault.jpg",
  :duration "00:00:35",
  :date "2017-05-09",
  :youtube-tags

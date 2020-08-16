@@ -2,7 +2,6 @@
  :title "Crokinole 2017 World Championship Top 4 - Reinman v Bonnett",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/wQWTd6W0WkE/mqdefault.jpg",
  :duration "00:06:07",
  :date "2017-07-06",
  :youtube-tags

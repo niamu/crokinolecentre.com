@@ -2,7 +2,6 @@
  :title "Crokinole - 2018 London Semifinal - Walsh v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/9La1mc0A-fo/mqdefault.jpg",
  :duration "00:08:33",
  :date "2018-05-06",
  :youtube-tags
@@ -18,7 +17,7 @@
 
 The semifinals of the 2018 London Crokinole tournament between Nathan Walsh and Justin Slater, from London, Ontario.
 
-A full writeup of the 2018 London tournament by CrokinoleCentre can be found here
+A full writeup of the 2018 London tournament by CrokinoleCentre can be found here:
 
 http://crokinolecentre.blogspot.ca/2018/03/justin-slater-wins-second-straight.html
 

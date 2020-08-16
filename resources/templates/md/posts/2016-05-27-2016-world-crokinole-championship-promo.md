@@ -2,7 +2,6 @@
  :title "2016 World Crokinole Championship Promo",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/5xIipBf04XM/mqdefault.jpg",
  :duration "00:04:33",
  :date "2016-05-27",
  :youtube-tags

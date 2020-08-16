@@ -3,7 +3,6 @@
  "2013 Hamilton Crokinole Tournament Finals - Beierling v Beierling 2/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/nCmsqQvMhio/mqdefault.jpg",
  :duration "00:09:03",
  :date "2013-02-19",
  :youtube-tags ["Ham" "2:3"]}

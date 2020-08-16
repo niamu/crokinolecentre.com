@@ -3,7 +3,6 @@
  "Crokinole - European Doubles Semifinal - Walsh/Soós v Costermans/Vrints",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/KfN-qMNZGXg/mqdefault.jpg",
  :duration "00:21:04",
  :date "2018-05-10",
  :youtube-tags

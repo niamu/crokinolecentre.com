@@ -2,7 +2,6 @@
  :title "Strange Crokinole Damage",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/wVXyTy7q1qo/mqdefault.jpg",
  :duration "00:01:25",
  :date "2016-12-22",
  :youtube-tags ["crokinole" "crazy" "damage"]}

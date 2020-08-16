@@ -2,7 +2,6 @@
  :title "2013 World Crokinole Championship - 20s Shootout",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/97tk0Q_iMdw/mqdefault.jpg",
  :duration "00:01:50",
  :date "2014-04-08",
  :youtube-tags

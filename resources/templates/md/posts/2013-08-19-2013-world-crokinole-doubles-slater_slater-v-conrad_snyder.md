@@ -2,7 +2,6 @@
  :title "2013 World Crokinole Doubles - Slater/Slater v Conrad/Snyder",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/cIGWXWhsIdQ/mqdefault.jpg",
  :duration "00:13:01",
  :date "2013-08-19",
  :youtube-tags []}

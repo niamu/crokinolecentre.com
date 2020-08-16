@@ -2,7 +2,6 @@
  :title "Crokinole 2018 Owen Sound - Top 4 - Hutchinson v Tracey",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/OcIeOwYBwXw/mqdefault.jpg",
  :duration "00:06:23",
  :date "2018-12-14",
  :youtube-tags

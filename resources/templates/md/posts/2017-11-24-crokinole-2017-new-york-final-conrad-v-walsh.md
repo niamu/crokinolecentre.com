@@ -2,7 +2,6 @@
  :title "Crokinole 2017 New York Final - Conrad v Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Ub9fLkc-wLg/mqdefault.jpg",
  :duration "00:15:55",
  :date "2017-11-24",
  :youtube-tags

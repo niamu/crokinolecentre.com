@@ -2,7 +2,6 @@
  :title "Crokinole - 2011 World Championships, Fragile Bird",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/4IyPI5WzQZo/mqdefault.jpg",
  :duration "00:04:23",
  :date "2011-07-21",
  :youtube-tags

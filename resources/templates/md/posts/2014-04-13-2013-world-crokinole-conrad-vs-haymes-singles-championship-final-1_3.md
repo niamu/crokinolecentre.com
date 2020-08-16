@@ -3,7 +3,6 @@
  "2013 World Crokinole - Conrad vs Haymes - Singles Championship Final 1/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/iMgYR7GklqE/mqdefault.jpg",
  :duration "00:06:17",
  :date "2014-04-13",
  :youtube-tags

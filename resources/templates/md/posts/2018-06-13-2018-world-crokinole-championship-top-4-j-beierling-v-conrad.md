@@ -3,7 +3,6 @@
  "2018 World Crokinole Championship - Top 4 - J Beierling v Conrad",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/6n3jbpU3Yhw/mqdefault.jpg",
  :duration "00:06:06",
  :date "2018-06-13",
  :youtube-tags

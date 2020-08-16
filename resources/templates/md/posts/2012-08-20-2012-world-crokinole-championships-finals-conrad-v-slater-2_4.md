@@ -3,7 +3,6 @@
  "2012 World Crokinole Championships Finals - Conrad v Slater 2/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/QHfg9IU12iw/mqdefault.jpg",
  :duration "00:09:02",
  :date "2012-08-20",
  :youtube-tags

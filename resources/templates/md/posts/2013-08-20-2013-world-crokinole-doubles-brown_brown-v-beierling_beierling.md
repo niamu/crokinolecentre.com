@@ -3,7 +3,6 @@
  "2013 World Crokinole Doubles - Brown/Brown v Beierling/Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Ur_ZuNwBr90/mqdefault.jpg",
  :duration "00:12:57",
  :date "2013-08-20",
  :youtube-tags

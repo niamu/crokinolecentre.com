@@ -2,7 +2,6 @@
  :title "2012 Belleville Crokinole Challenge Final - Cook v Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/7pVI5SM74Dg/mqdefault.jpg",
  :duration "00:06:15",
  :date "2013-01-27",
  :youtube-tags ["1:3"]}

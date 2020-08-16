@@ -2,7 +2,6 @@
  :title "Crokinole 2016 New York Final - Walsh v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/SjvbKr6pGC8/mqdefault.jpg",
  :duration "00:22:03",
  :date "2017-04-30",
  :youtube-tags

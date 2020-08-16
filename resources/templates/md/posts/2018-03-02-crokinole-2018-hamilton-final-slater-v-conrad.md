@@ -2,7 +2,6 @@
  :title "Crokinole 2018 Hamilton Final - Slater v Conrad",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Iq0j0DfzpJY/mqdefault.jpg",
  :duration "00:13:55",
  :date "2018-03-02",
  :youtube-tags

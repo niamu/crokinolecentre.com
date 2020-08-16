@@ -2,7 +2,6 @@
  :title "Crokinole 2015 Belleville Final - Slater v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/zjbKgbriVrQ/mqdefault.jpg",
  :duration "00:20:27",
  :date "2016-05-05",
  :youtube-tags

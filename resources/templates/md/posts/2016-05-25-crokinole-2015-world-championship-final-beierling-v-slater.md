@@ -2,7 +2,6 @@
  :title "Crokinole 2015 World Championship - Final Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/jTX7LrqEkn0/mqdefault.jpg",
  :duration "00:18:04",
  :date "2016-05-25",
  :youtube-tags

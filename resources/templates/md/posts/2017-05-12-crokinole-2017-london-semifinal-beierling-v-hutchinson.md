@@ -2,7 +2,6 @@
  :title "Crokinole 2017 London Semifinal - Beierling v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/LDiYjCS7iIQ/mqdefault.jpg",
  :duration "00:14:39",
  :date "2017-05-12",
  :youtube-tags

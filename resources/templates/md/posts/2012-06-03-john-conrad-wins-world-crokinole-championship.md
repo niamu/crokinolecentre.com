@@ -2,7 +2,6 @@
  :title "John Conrad wins World Crokinole Championship",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/JHNPUyUlFBE/mqdefault.jpg",
  :duration "00:05:30",
  :date "2012-06-03",
  :youtube-tags

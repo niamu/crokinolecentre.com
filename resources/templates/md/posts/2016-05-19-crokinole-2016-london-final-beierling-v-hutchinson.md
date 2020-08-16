@@ -2,7 +2,6 @@
  :title "Crokinole 2016 London Final - Beierling v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/kn1qn2Om3eo/mqdefault.jpg",
  :duration "00:10:41",
  :date "2016-05-19",
  :youtube-tags

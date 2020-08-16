@@ -3,7 +3,6 @@
  "Crokinole 2015 World Championship - Top 4 Beierling v Bonnett",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/q99FACm0-gI/mqdefault.jpg",
  :duration "00:06:31",
  :date "2016-05-23",
  :youtube-tags

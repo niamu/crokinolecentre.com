@@ -2,7 +2,6 @@
  :title "Crokinole - 2011 World Championships 3/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/NVAL_-J7zxA/mqdefault.jpg",
  :duration "00:06:57",
  :date "2011-08-10",
  :youtube-tags

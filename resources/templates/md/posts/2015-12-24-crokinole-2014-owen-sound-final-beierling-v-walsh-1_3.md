@@ -2,7 +2,6 @@
  :title "Crokinole - 2014 Owen Sound Final - Beierling v Walsh 1/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Q_5BOhJ8boM/mqdefault.jpg",
  :duration "00:06:33",
  :date "2015-12-24",
  :youtube-tags

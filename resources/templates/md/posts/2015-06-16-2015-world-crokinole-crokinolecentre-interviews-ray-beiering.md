@@ -3,7 +3,6 @@
  "2015 World Crokinole - CrokinoleCentre Interviews Ray Beiering",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/kKuFwS9B7YM/mqdefault.jpg",
  :duration "00:01:57",
  :date "2015-06-16",
  :youtube-tags

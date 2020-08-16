@@ -2,7 +2,6 @@
  :title "Crokinole Trick Shot - Squeeze Theorem",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/VwkJI23JU1o/mqdefault.jpg",
  :duration "00:00:08",
  :date "2011-12-01",
  :youtube-tags ["Ontario"]}

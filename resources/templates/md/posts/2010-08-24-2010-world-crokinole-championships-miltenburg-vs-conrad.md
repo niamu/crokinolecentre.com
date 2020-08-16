@@ -2,7 +2,6 @@
  :title "2010 World Crokinole Championships - Miltenburg vs Conrad",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/qFU73Ss4PM0/mqdefault.jpg",
  :duration "00:07:08",
  :date "2010-08-24",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "Crokinole 2018 Owen Sound - Top 4 - Bonnett v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/gKyG_rQBDbQ/mqdefault.jpg",
  :duration "00:07:50",
  :date "2018-12-07",
  :youtube-tags

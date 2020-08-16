@@ -3,7 +3,6 @@
  "Crokinole 2015 World Championship - Doubles Johnston/Johnston v Campbell/Brubacher",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/ONExj24BJrg/mqdefault.jpg",
  :duration "00:12:43",
  :date "2016-03-26",
  :youtube-tags

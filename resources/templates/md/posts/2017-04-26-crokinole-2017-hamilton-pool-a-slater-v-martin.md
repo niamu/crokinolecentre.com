@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Hamilton Pool A - Slater v Martin",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/VRWDPUDneGw/mqdefault.jpg",
  :duration "00:08:18",
  :date "2017-04-26",
  :youtube-tags

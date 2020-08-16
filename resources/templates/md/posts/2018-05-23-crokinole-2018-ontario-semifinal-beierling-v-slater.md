@@ -2,7 +2,6 @@
  :title "Crokinole - 2018 Ontario Semifinal - Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/yMIZiSgwKbk/mqdefault.jpg",
  :duration "00:12:59",
  :date "2018-05-23",
  :youtube-tags

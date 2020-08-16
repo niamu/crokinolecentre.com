@@ -2,7 +2,6 @@
  :title "Crokinole - 2014 London Final 3/3 - Beierling v Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/J50CzzO7pUU/mqdefault.jpg",
  :duration "00:07:39",
  :date "2015-01-17",
  :youtube-tags ["crokinole london 2014 final nca beierling walsh"]}

@@ -3,7 +3,6 @@
  "Crokinole 2015 World Championship - Doubles Walsh/Kuepfer v Conrad/Snyder",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/8-rp81KVpOU/mqdefault.jpg",
  :duration "00:12:58",
  :date "2016-04-20",
  :youtube-tags

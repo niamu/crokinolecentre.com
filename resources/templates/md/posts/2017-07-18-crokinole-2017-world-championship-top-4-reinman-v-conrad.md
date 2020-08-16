@@ -2,7 +2,6 @@
  :title "Crokinole 2017 World Championship Top 4 - Reinman v Conrad",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/ayJSfsxkLiM/mqdefault.jpg",
  :duration "00:06:44",
  :date "2017-07-18",
  :youtube-tags

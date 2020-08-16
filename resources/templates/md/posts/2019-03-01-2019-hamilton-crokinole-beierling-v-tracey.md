@@ -2,7 +2,6 @@
  :title "2019 Hamilton Crokinole - Beierling v Tracey",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/inkw-96O2s8/mqdefault.jpg",
  :duration "00:06:13",
  :date "2019-03-01",
  :youtube-tags
@@ -15,7 +14,7 @@
   "golden horseshoe"]}
 
 
-A round robin match between Ray Beierling and Reid Tracey at the 2019 Golden Horseshoe Crokinole Tournament in Hamilton, ON.
+A round robin match between Ray Beierling and Reid Tracey at the 2019 Golden Horseshoe Crokinole Tournament in Hamilton, ON. 
 
 For more from CrokinoleCentre, find full tournament previews and reviews at http://crokinolecentre.blogspot.ca
 

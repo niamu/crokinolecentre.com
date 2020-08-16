@@ -2,7 +2,6 @@
  :title "Crokinole - Slater vs Beierling - 2012 World Championships",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/uaGL5SUcJf8/mqdefault.jpg",
  :duration "00:06:24",
  :date "2012-08-10",
  :youtube-tags

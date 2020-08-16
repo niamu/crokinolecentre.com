@@ -3,7 +3,6 @@
  "2015 World Crokinole - CrokinoleCentre Interviews Justin Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/qzOLRuBKGHM/mqdefault.jpg",
  :duration "00:02:32",
  :date "2015-06-16",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "2015 Erzinger Crokinole Classic -  Jong v Miltenburg",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/HFgax3BHzJs/mqdefault.jpg",
  :duration "00:06:59",
  :date "2016-02-13",
  :youtube-tags

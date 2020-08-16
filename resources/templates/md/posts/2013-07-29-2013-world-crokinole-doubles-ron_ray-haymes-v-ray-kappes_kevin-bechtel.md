@@ -3,7 +3,6 @@
  "2013 World Crokinole Doubles Ron/Ray Haymes v Ray Kappes/Kevin Bechtel",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/fEiT35PUKEQ/mqdefault.jpg",
  :duration "00:09:23",
  :date "2013-07-29",
  :youtube-tags []}

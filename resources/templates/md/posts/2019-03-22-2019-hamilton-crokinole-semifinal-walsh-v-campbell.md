@@ -2,7 +2,6 @@
  :title "2019 Hamilton Crokinole Semifinal - Walsh v Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/InROlBbUSVQ/mqdefault.jpg",
  :duration "00:15:37",
  :date "2019-03-22",
  :youtube-tags

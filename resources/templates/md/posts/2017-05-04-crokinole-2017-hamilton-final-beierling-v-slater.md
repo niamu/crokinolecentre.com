@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Hamilton Final - Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/8HhALmPmBYU/mqdefault.jpg",
  :duration "00:21:02",
  :date "2017-05-04",
  :youtube-tags

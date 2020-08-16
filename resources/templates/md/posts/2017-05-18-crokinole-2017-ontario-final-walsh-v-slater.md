@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Ontario Final - Walsh v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/qmb--RP2cuo/mqdefault.jpg",
  :duration "00:15:16",
  :date "2017-05-18",
  :youtube-tags

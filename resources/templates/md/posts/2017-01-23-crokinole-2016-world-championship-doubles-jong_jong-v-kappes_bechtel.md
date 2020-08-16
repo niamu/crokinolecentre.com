@@ -3,7 +3,6 @@
  "Crokinole 2016 World Championship - Doubles Jong/Jong v Kappes/Bechtel",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/LCBvm53h8ac/mqdefault.jpg",
  :duration "00:11:11",
  :date "2017-01-23",
  :youtube-tags

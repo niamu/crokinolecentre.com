@@ -2,7 +2,6 @@
  :title "Crokinole - 2018 Ontario Final - Reinman v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/2jXG0qfKEks/mqdefault.jpg",
  :duration "00:11:27",
  :date "2018-05-25",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "Crokinole 2017 World Championship Top 4 - Conrad v Jongsma",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/XYIa3QzPyXg/mqdefault.jpg",
  :duration "00:06:53",
  :date "2017-07-03",
  :youtube-tags

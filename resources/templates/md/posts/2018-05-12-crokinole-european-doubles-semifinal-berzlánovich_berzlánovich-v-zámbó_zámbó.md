@@ -3,7 +3,6 @@
  "Crokinole - European Doubles Semifinal - Berzlánovich/Berzlánovich v Zámbó/Zámbó",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/_7aWCBh3LiE/mqdefault.jpg",
  :duration "00:05:41",
  :date "2018-05-12",
  :youtube-tags

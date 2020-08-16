@@ -2,7 +2,6 @@
  :title "Crokinole 2015 Owen Sound Final - Campbell vs  Beierling 1/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/GMp9dcZjp9o/mqdefault.jpg",
  :duration "00:07:26",
  :date "2016-05-16",
  :youtube-tags

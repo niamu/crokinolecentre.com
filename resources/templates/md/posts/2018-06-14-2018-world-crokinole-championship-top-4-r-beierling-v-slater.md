@@ -3,7 +3,6 @@
  "2018 World Crokinole Championship - Top 4 - R Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/it1Svz_tLdo/mqdefault.jpg",
  :duration "00:06:21",
  :date "2018-06-14",
  :youtube-tags

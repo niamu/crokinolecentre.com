@@ -2,7 +2,6 @@
  :title "Crokinole 2018 New York Final - Slater v Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/nS6V_NuUaQk/mqdefault.jpg",
  :duration "00:18:21",
  :date "2018-08-06",
  :youtube-tags

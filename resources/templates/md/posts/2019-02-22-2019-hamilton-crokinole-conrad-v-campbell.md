@@ -2,7 +2,6 @@
  :title "2019 Hamilton Crokinole - Conrad v Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/EhF6IchsVXo/mqdefault.jpg",
  :duration "00:07:06",
  :date "2019-02-22",
  :youtube-tags

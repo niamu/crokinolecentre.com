@@ -2,7 +2,6 @@
  :title "2019 Hamilton Crokinole - Walsh v Campbell",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/HCb4MP0CSBY/mqdefault.jpg",
  :duration "00:07:28",
  :date "2019-02-08",
  :youtube-tags

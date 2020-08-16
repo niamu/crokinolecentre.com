@@ -2,7 +2,6 @@
  :title "2013 World Crokinole Doubles: Conrad/Snyder v Kappes/Bechtel",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/PHgNV_AETkE/mqdefault.jpg",
  :duration "00:10:54",
  :date "2013-07-28",
  :youtube-tags

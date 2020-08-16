@@ -2,7 +2,6 @@
  :title "Crokinole PEI Singles Championship 2/2",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/oN3tIkchqFI/mqdefault.jpg",
  :duration "00:06:35",
  :date "2012-07-10",
  :youtube-tags ["crokinole" "pei" "nca" "wcc"]}

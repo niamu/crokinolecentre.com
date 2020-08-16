@@ -2,7 +2,6 @@
  :title "Crokinole 2018 Owen Sound - Top 4 - Beierling v Tracey",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/w4ctumdIGuk/mqdefault.jpg",
  :duration "00:07:15",
  :date "2018-12-28",
  :youtube-tags

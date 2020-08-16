@@ -3,7 +3,6 @@
  "2010 World Crokinole Championships - Finals Part 4 - Slater vs Cook",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/SFGPeMBnAro/mqdefault.jpg",
  :duration "00:05:56",
  :date "2010-09-26",
  :youtube-tags

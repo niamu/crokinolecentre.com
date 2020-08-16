@@ -2,7 +2,6 @@
  :title "Crokinole - 2011 London Finals 3/3",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/SULVdCjNjw4/mqdefault.jpg",
  :duration "00:07:18",
  :date "2011-07-15",
  :youtube-tags ["crokinole" "nca" "beierling" "miltenburg"]}

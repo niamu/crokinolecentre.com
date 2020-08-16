@@ -2,7 +2,6 @@
  :title "2008 WCC - Recreational Championship",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/mFOw_rDTz9E/mqdefault.jpg",
  :duration "00:06:22",
  :date "2008-08-29",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Hamilton Pool A - Kipfer v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/qO9US4qEIgU/mqdefault.jpg",
  :duration "00:06:04",
  :date "2017-04-30",
  :youtube-tags

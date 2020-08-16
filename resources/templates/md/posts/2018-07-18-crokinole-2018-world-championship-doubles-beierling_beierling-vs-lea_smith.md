@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship Doubles - Beierling/Beierling vs Lea/Smith",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Ew_htB5Coqc/mqdefault.jpg",
  :duration "00:13:35",
  :date "2018-07-18",
  :youtube-tags

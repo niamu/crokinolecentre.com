@@ -3,7 +3,6 @@
  "Crokinole 2017 World Championship Doubles - Beierling/Beierling v Wiseman/Wiseman",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/0kJncWRxclA/mqdefault.jpg",
  :duration "00:11:11",
  :date "2017-08-12",
  :youtube-tags

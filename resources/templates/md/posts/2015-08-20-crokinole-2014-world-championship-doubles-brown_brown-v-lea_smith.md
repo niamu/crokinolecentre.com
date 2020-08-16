@@ -3,7 +3,6 @@
  "Crokinole 2014 World Championship - Doubles Brown/Brown v Lea/Smith",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Liwg_61co88/mqdefault.jpg",
  :duration "00:12:04",
  :date "2015-08-20",
  :youtube-tags

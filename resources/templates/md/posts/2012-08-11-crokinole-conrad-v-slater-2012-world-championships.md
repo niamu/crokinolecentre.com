@@ -2,7 +2,6 @@
  :title "Crokinole - Conrad v Slater - 2012 World Championships",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/sD8frJ_0y9A/mqdefault.jpg",
  :duration "00:07:13",
  :date "2012-08-11",
  :youtube-tags

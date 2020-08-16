@@ -3,7 +3,6 @@
  "Crokinole 2015 Ontario Doubles Final - Snyder/Conrad v Beierling/Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/kf5DzFOD0Pk/mqdefault.jpg",
  :duration "00:31:57",
  :date "2016-05-08",
  :youtube-tags

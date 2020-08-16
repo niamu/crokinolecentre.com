@@ -3,7 +3,6 @@
  "Crokinole 2014 World Championship Singles - Top 4 Walsh v Brown",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/6zvFH-j0Pd0/mqdefault.jpg",
  :duration "00:06:46",
  :date "2015-10-25",
  :youtube-tags

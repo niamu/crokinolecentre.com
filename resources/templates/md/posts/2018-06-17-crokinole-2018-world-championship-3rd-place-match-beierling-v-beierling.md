@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship 3rd Place Match - Beierling v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/oRsGotUfwT0/mqdefault.jpg",
  :duration "00:14:05",
  :date "2018-06-17",
  :youtube-tags

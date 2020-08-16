@@ -3,7 +3,6 @@
  "Crokinole 2015 World Championship - Doubles Slater/Slater v Beierling/Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/taFFZUdhvic/mqdefault.jpg",
  :duration "00:13:25",
  :date "2016-04-09",
  :youtube-tags

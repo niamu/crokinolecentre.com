@@ -3,7 +3,6 @@
  "2016 Ontario Doubles Crokinole Championship - Slater/Slater v Conrad/Hutchinson Semifinals",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/kRSWp9-bqkw/mqdefault.jpg",
  :duration "00:36:43",
  :date "2017-03-19",
  :youtube-tags

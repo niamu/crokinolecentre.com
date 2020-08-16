@@ -3,7 +3,6 @@
  "Crokinole 2014 World Championship - Doubles Brown/Brown v Kuepfer/Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/uAGHhs7edTA/mqdefault.jpg",
  :duration "00:10:23",
  :date "2015-09-04",
  :youtube-tags

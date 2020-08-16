@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Owen Sound Final - Conrad v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/Zt4QznCaPvo/mqdefault.jpg",
  :duration "00:21:09",
  :date "2018-01-02",
  :youtube-tags

@@ -2,7 +2,6 @@
  :title "2013 Owen Sound Crokinole Final - Gauthier v Slater 2/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/UGGo6zY0dJM/mqdefault.jpg",
  :duration "00:07:32",
  :date "2015-07-27",
  :youtube-tags

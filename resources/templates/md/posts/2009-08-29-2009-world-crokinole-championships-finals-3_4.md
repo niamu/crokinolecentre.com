@@ -2,7 +2,6 @@
  :title "2009 World Crokinole Championships - Finals 3/4",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/1b605v7rhH4/mqdefault.jpg",
  :duration "00:06:54",
  :date "2009-08-29",
  :youtube-tags

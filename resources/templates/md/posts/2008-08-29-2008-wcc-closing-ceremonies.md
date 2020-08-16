@@ -2,7 +2,6 @@
  :title "2008 WCC - Closing Ceremonies",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/VRj7Goa4JtQ/mqdefault.jpg",
  :duration "00:05:27",
  :date "2008-08-29",
  :youtube-tags

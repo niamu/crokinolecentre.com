@@ -3,7 +3,6 @@
  "Crokinole 2014 World Championships - Beierling/Beierling v Mader/Howie",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/e4BkRUYg1qc/mqdefault.jpg",
  :duration "00:11:40",
  :date "2014-12-07",
  :youtube-tags

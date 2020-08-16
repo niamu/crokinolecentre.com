@@ -2,7 +2,6 @@
  :title "Crokinole 2018 Owen Sound Final - Beierling v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/889iZqSLLrM/mqdefault.jpg",
  :duration "00:15:53",
  :date "2019-01-18",
  :youtube-tags

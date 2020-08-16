@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship Doubles - Conrad/Reinman v Beierling/Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/SjAg_xdyhMk/mqdefault.jpg",
  :duration "00:10:38",
  :date "2018-07-04",
  :youtube-tags

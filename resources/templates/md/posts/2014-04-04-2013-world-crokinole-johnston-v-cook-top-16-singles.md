@@ -2,7 +2,6 @@
  :title "2013 World Crokinole - Johnston v Cook - Top 16 Singles",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/mJYEldqHbcg/mqdefault.jpg",
  :duration "00:07:02",
  :date "2014-04-04",
  :youtube-tags

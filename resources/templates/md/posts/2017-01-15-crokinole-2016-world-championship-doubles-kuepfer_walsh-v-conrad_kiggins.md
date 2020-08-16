@@ -3,7 +3,6 @@
  "Crokinole 2016 World Championship - Doubles Kuepfer/Walsh v Conrad/Kiggins",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/mlDb7dCaBHo/mqdefault.jpg",
  :duration "00:12:26",
  :date "2017-01-15",
  :youtube-tags

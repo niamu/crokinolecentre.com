@@ -2,7 +2,6 @@
  :title "Crokinole 2017 Hamilton Pool A - Kuepfer v Martin",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/n9J-WO7ctTY/mqdefault.jpg",
  :duration "00:07:25",
  :date "2017-04-17",
  :youtube-tags

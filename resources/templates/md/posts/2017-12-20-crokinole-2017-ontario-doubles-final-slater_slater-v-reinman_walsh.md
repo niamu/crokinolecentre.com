@@ -3,7 +3,6 @@
  "Crokinole 2017 Ontario Doubles Final - Slater/Slater v Reinman/Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/m4gYRtr6FDk/mqdefault.jpg",
  :duration "00:23:22",
  :date "2017-12-20",
  :youtube-tags

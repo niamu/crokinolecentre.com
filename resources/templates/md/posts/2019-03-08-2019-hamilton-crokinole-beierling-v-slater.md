@@ -2,7 +2,6 @@
  :title "2019 Hamilton Crokinole - Beierling v Slater",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/UKrnRVa6avg/mqdefault.jpg",
  :duration "00:06:00",
  :date "2019-03-08",
  :youtube-tags

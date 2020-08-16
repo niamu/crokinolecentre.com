@@ -2,7 +2,6 @@
  :title "2013 World Crokinole - Johnston v Haymes - Top 4 Playoffs",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/RaK4z68ohSs/mqdefault.jpg",
  :duration "00:06:09",
  :date "2014-04-11",
  :youtube-tags []}

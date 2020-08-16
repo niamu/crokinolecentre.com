@@ -3,7 +3,6 @@
  "2013 World Crokinole - Beierling v Johnston - 3rd Place Match",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/BLhNRxJRcgw/mqdefault.jpg",
  :duration "00:01:51",
  :date "2014-04-11",
  :youtube-tags ["crokinole world championship beierling johnston 2013"]}

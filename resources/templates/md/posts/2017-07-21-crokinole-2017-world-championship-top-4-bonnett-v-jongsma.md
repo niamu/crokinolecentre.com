@@ -2,7 +2,6 @@
  :title "Crokinole 2017 World Championship Top 4 - Bonnett v Jongsma",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/kDIRKcwLZkU/mqdefault.jpg",
  :duration "00:09:13",
  :date "2017-07-21",
  :youtube-tags

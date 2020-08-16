@@ -2,7 +2,6 @@
  :title "2019 London Crokinole Semifinal - Bonnett v Beierling",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/1hD4qmZPvc8/mqdefault.jpg",
  :duration "00:12:41",
  :date "2019-04-19",
  :youtube-tags []}

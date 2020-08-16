@@ -3,7 +3,6 @@
  "Crokinole 2018 World Championship Doubles - Lea/Smith v Kuepfer/Walsh",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/2X1Wzg85dT4/mqdefault.jpg",
  :duration "00:13:28",
  :date "2018-07-06",
  :youtube-tags

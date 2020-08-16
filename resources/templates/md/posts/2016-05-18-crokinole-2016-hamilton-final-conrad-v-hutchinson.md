@@ -2,7 +2,6 @@
  :title "Crokinole 2016 Hamilton Final - Conrad v Hutchinson",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/-6qiwIRt1ZY/mqdefault.jpg",
  :duration "00:24:01",
  :date "2016-05-18",
  :youtube-tags

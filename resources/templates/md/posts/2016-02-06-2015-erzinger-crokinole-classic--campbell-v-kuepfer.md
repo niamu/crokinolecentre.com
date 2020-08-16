@@ -2,7 +2,6 @@
  :title "2015 Erzinger Crokinole Classic -  Campbell v Kuepfer",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/HqUXwYQBX3U/mqdefault.jpg",
  :duration "00:07:27",
  :date "2016-02-06",
  :youtube-tags

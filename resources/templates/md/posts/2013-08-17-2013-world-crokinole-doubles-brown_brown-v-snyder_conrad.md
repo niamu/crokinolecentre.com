@@ -2,7 +2,6 @@
  :title "2013 World Crokinole Doubles - Brown/Brown v Snyder/Conrad",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/1L_9sEnprDk/mqdefault.jpg",
  :duration "00:12:26",
  :date "2013-08-17",
  :youtube-tags

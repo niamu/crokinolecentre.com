@@ -2,7 +2,6 @@
  :title "2013 World Crokinole - Gauthier v Conrad - Top 16 Singles",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/pNa4qMFEeDY/mqdefault.jpg",
  :duration "00:03:13",
  :date "2014-04-06",
  :youtube-tags []}

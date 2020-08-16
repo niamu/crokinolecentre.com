@@ -2,7 +2,6 @@
  :title "Crokinole 2018 Owen Sound - Top 4 - Bonnett v Tracey",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/ZF2x5A6wiWo/mqdefault.jpg",
  :duration "00:08:49",
  :date "2019-01-11",
  :youtube-tags

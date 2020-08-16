@@ -2,7 +2,6 @@
  :title "Crokinole 2017 World Championship Top 4 - Reinman v Jongsma",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/0E29ijLlJbQ/mqdefault.jpg",
  :duration "00:07:07",
  :date "2017-07-15",
  :youtube-tags

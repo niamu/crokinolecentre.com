@@ -3,7 +3,6 @@
  "Crokinole 2016 World Championship - Doubles Beierling/Beierling v Conrad/Kiggins",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/fsoZJeZCLFM/mqdefault.jpg",
  :duration "00:10:10",
  :date "2017-01-09",
  :youtube-tags

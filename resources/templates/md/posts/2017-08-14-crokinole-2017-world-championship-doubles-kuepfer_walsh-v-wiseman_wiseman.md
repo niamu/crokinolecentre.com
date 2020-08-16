@@ -3,7 +3,6 @@
  "Crokinole 2017 World Championship Doubles - Kuepfer/Walsh v Wiseman/Wiseman",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/e_VdpnrkIXI/mqdefault.jpg",
  :duration "00:12:52",
  :date "2017-08-14",
  :youtube-tags

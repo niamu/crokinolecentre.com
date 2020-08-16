@@ -2,7 +2,6 @@
  :title "This is War, World Crokinole Championships 2012",
  :author "Nathan Walsh",
  :layout :youtube,
- :thumbnail "https://i.ytimg.com/vi/4M1ybqgwAp4/mqdefault.jpg",
  :duration "00:03:30",
  :date "2012-07-23",
  :youtube-tags
