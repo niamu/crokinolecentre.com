@@ -220,7 +220,8 @@
      :box-shadow [[0 0 (units/px 5)
                    (assoc (color/as-rgb (theme 2)) :alpha 0.2)]]}
     (non-mobile-screen {:max-width (units/px 600)})
-    [:.content {:overflow :hidden}]
+    [:.content {:overflow :hidden}
+     [:p {:line-height (units/em 1.5)}]]
     [:&.preview
      {:width (calc [(units/percent 100) \- (units/px 20)])}
      (non-mobile-screen {:max-width (units/px 600)})
@@ -299,6 +300,8 @@
      [:iframe {:max-width (units/percent 100)}]]]
    [:.video.preview
     (non-mobile-screen {:max-width (units/px 300)})
+    [:h2 {:overflow :hidden
+          :text-overflow :ellipsis}]
     [:img {:width (units/percent 100)
            :transition [[(units/s 0.1) :linear :opacity]]}]
     [:a
