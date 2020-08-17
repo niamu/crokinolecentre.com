@@ -27,6 +27,6 @@ rm resources/youtube-dl/*
 
 for i in resources/templates/images/thumbnails/*.jpg.old
 do
-	ffmpeg -y -i "$i" "${i%.*}"
-	rm "$i"
+    ffmpeg -y -i "$i" "${i%.*}"
+    rm "$i"
 done
